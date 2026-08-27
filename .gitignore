@@ -12,6 +12,7 @@ public/background.mov
 public/*.mp4
 *.mp4
 *.wav
+*.mov
 check_*.wav
 first30.wav
 

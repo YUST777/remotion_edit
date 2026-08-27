@@ -8,6 +8,7 @@ import {
 } from "remotion";
 import captions from "../public/captions.json";
 import { ContestLogosTransition } from "./ContestLogosTransition";
+import { MashaProblemVisual } from "./MashaProblemVisual";
 import { PolaroidCollage } from "./PolaroidCollage";
 import { TikTokCaption } from "./TikTokCaption";
 
@@ -26,6 +27,15 @@ export const CaptionedVideo: React.FC = () => {
         name="Contest Logos Transition (ECPC -> ACPC -> ICPC)"
       >
         <ContestLogosTransition />
+      </Sequence>
+
+      {/* 3. Problem Explanation: Masha and the Bear Visual Graphics (from 38.2s to 60.5s) */}
+      <Sequence
+        from={Math.round(38.2 * fps)}
+        durationInFrames={Math.round(22.3 * fps)}
+        name="Masha and the Bear Problem Explanation"
+      >
+        <MashaProblemVisual />
       </Sequence>
 
       {/* 2. 16 Teams Polaroid Photo Collage Sequence (starts at ~70.8s, completely disappears before 76.5s for the QR code) */}
