@@ -198,8 +198,7 @@ export const TikTokCaption: React.FC<{
                 key={`latin-chunk-${chunkIdx}`}
                 style={{
                   display: "inline-flex",
-                  flexDirection: "row",
-                  direction: "ltr",
+                  flexDirection: "row-reverse",
                   alignItems: "center",
                   gap: 32,
                   unicodeBidi: "isolate",

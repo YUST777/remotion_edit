@@ -4,6 +4,7 @@ import {
   OffthreadVideo,
   Sequence,
   staticFile,
+  useCurrentFrame,
   useVideoConfig,
 } from "remotion";
 import captions from "../public/captions.json";
@@ -14,11 +15,23 @@ import { TikTokCaption } from "./TikTokCaption";
 
 export const CaptionedVideo: React.FC = () => {
   const { fps } = useVideoConfig();
+  const frame = useCurrentFrame();
+
+  // The last clip (team wide shot on the grass with HUE banner) begins at frame 7378 (~122.96s)
+  const isLastClip = frame >= 7378;
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#000000" }}>
-      {/* 1. Underlying video rendered via OffthreadVideo (frame-accurate, zero glitches/stutter) */}
-      <OffthreadVideo src={staticFile("video.mp4")} pauseWhenBuffering />
+      {/* 1. Underlying video rendered via OffthreadVideo (with rich saturation filter on last clip) */}
+      <OffthreadVideo
+        src={staticFile("video.mp4")}
+        pauseWhenBuffering
+        style={{
+          filter: isLastClip
+            ? "saturate(1.65) contrast(1.12) brightness(0.97)"
+            : undefined,
+        }}
+      />
 
       {/* 2. Official Logos Roadmap Transition (ECPC -> ACPC -> ICPC) from 6.94s to 15.8s */}
       <Sequence
