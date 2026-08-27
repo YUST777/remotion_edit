@@ -1,0 +1,24 @@
+{
+  "name": "icpc-hue-reels-remotion",
+  "version": "1.0.0",
+  "description": "Remotion project with TikTok-style animated captions for ICPC HUE Reel",
+  "scripts": {
+    "start": "remotion preview",
+    "build": "remotion render CaptionedVideo out/video.mp4"
+  },
+  "dependencies": {
+    "@remotion/animation-utils": "^4.0.518",
+    "@remotion/captions": "^4.0.518",
+    "@remotion/cli": "^4.0.518",
+    "@remotion/google-fonts": "^4.0.518",
+    "@remotion/layout-utils": "^4.0.518",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.518"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.4.0"
+  }
+}

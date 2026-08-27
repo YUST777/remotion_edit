@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build and output directories
+out/
+.remotion/
+
+# Huge media binaries (exceed GitHub 100MB limit)
+*.bin
+public/video.mp4
+public/background.mov
+public/*.mp4
+*.mp4
+*.wav
+check_*.wav
+first30.wav
+
+# OS and system files
+.DS_Store
+Thumbs.db
