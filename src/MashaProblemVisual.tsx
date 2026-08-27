@@ -13,12 +13,13 @@ import {
 import { fontFamily } from "./load-font";
 
 // ----------------------------------------------------
-// 1. User-Provided Girl SVG (Masha)
+// 1. User-Provided Girl SVG (Masha) — Trimmed to exact path bounds
 // ----------------------------------------------------
 const GirlSvg: React.FC<{ style?: React.CSSProperties }> = ({ style }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 150 150"
+    viewBox="33 8.6 84 132.9"
+    preserveAspectRatio="xMidYMax meet"
     style={style}
   >
     <style type="text/css">{`
@@ -124,12 +125,13 @@ const GirlSvg: React.FC<{ style?: React.CSSProperties }> = ({ style }) => (
 );
 
 // ----------------------------------------------------
-// 2. User-Provided Market SVG
+// 2. User-Provided Market SVG — Trimmed to exact path bounds
 // ----------------------------------------------------
 const MarketSvg: React.FC<{ style?: React.CSSProperties }> = ({ style }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 150 150"
+    viewBox="6 19.5 138 111"
+    preserveAspectRatio="xMidYMax meet"
     style={style}
   >
     <style type="text/css">{`
@@ -522,7 +524,7 @@ export const MashaProblemVisual: React.FC = () => {
         <div
           style={{
             position: "absolute",
-            top: 920,
+            top: 860,
             left: 0,
             right: 0,
             display: "flex",
@@ -540,8 +542,8 @@ export const MashaProblemVisual: React.FC = () => {
             style={{
               display: "flex",
               justifyContent: "center",
-              alignItems: "flex-end",
-              gap: 40,
+              alignItems: "flex-end", // BASELINE ALIGNMENT: both feet and legs touch the floor
+              gap: 80,
               width: 2040,
               transform: `scale(${interpolate(girlSpring, [0, 1], [0.85, 1])})`,
             }}
@@ -550,108 +552,119 @@ export const MashaProblemVisual: React.FC = () => {
             <div
               style={{
                 position: "relative",
-                width: 980,
+                width: 1100,
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
               }}
             >
-              {/* User Message Bubble SVG with text: "الأسعار بتزيد 10 ج كل يوم! 📈" */}
+              {/* User Message Bubble SVG with creative centered text */}
               <div
                 style={{
                   position: "relative",
-                  width: 700,
-                  height: 580,
+                  width: 780,
+                  height: 658,
                   marginBottom: -80,
-                  filter: "drop-shadow(0 20px 40px rgba(68, 36, 22, 0.22))",
+                  filter: "drop-shadow(0 22px 45px rgba(68, 36, 22, 0.24))",
                 }}
               >
                 <MessageBubbleSvg style={{ width: "100%", height: "100%" }} />
-                {/* Text centered inside the cream speech bubble body */}
+                {/* Text centered dead-center inside the cream speech bubble body */}
                 <div
                   style={{
                     position: "absolute",
-                    top: "16%",
-                    left: "14%",
-                    right: "14%",
-                    textAlign: "center",
+                    top: 80,
+                    left: 105,
+                    width: 510,
+                    height: 330,
+                    display: "flex",
+                    flexDirection: "column",
+                    justifyContent: "center",
+                    alignItems: "center",
                     direction: "rtl",
+                    textAlign: "center",
                     fontFamily,
                   }}
                 >
+                  {/* Creative announcement pill */}
+                  <div
+                    style={{
+                      background: "#DC2626",
+                      color: "#FFFFFF",
+                      fontSize: 30,
+                      fontWeight: 900,
+                      padding: "5px 24px",
+                      borderRadius: 999,
+                      marginBottom: 8,
+                      letterSpacing: 0.5,
+                      boxShadow: "0 4px 12px rgba(220, 38, 38, 0.25)",
+                    }}
+                  >
+                    📢 تسعيرة جديدة
+                  </div>
+
+                  {/* Main text */}
                   <div
                     style={{
                       fontSize: 54,
                       fontWeight: 900,
-                      color: "#442416",
-                      lineHeight: 1.2,
+                      color: "#2C140A",
+                      lineHeight: 1.15,
                     }}
                   >
                     الأسعار بتزيد
                   </div>
+
+                  {/* High-contrast price bump */}
                   <div
                     style={{
-                      fontSize: 60,
-                      fontWeight: 900,
-                      color: "#CE714A",
+                      display: "flex",
+                      alignItems: "baseline",
+                      justifyContent: "center",
+                      gap: 12,
                       marginTop: 6,
+                      direction: "rtl",
                     }}
                   >
-                    10 ج كل يوم! 📈
+                    <span
+                      style={{
+                        fontSize: 66,
+                        fontWeight: 900,
+                        color: "#DC2626",
+                        lineHeight: 1,
+                      }}
+                    >
+                      +10 ج
+                    </span>
+                    <span
+                      style={{
+                        fontSize: 48,
+                        fontWeight: 900,
+                        color: "#442416",
+                        lineHeight: 1,
+                      }}
+                    >
+                      كل يوم! 💸
+                    </span>
                   </div>
                 </div>
               </div>
 
-              {/* User-provided Market SVG (rock-solid, NO jumping) */}
-              <MarketSvg style={{ width: 950, height: 950 }} />
+              {/* User-provided Market SVG (exact bottom bounds, display block) */}
+              <MarketSvg style={{ width: 1100, height: 885, display: "block" }} />
             </div>
 
-            {/* User-provided Girl (Masha) SVG (rock-solid, NO jumping) */}
+            {/* User-provided Girl (Masha) SVG (proportional height, display block) */}
             <div
               style={{
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "center",
-                width: 860,
-                marginBottom: -22, // Plants her feet firmly on the pavement bar
+                width: 440,
               }}
             >
-              {/* Cute speech bubble above Masha */}
-              <div
-                style={{
-                  position: "relative",
-                  background: "#94344C",
-                  color: "#FFFFFF",
-                  padding: "24px 54px",
-                  borderRadius: 44,
-                  fontSize: 52,
-                  fontWeight: 900,
-                  marginBottom: 16,
-                  boxShadow: "0 22px 60px rgba(148, 52, 76, 0.35)",
-                  direction: "rtl",
-                  border: "5px solid #FFFFFF",
-                  whiteSpace: "nowrap",
-                }}
-              >
-                بتموت في الشوكولاتة! 🍫😋
-                {/* Speech bubble tail */}
-                <div
-                  style={{
-                    position: "absolute",
-                    bottom: -20,
-                    left: "50%",
-                    transform: "translateX(-50%)",
-                    width: 0,
-                    height: 0,
-                    borderLeft: "20px solid transparent",
-                    borderRight: "20px solid transparent",
-                    borderTop: "22px solid #94344C",
-                  }}
-                />
-              </div>
-
-              {/* User-provided Girl SVG (NO jumping/bobbing) */}
-              <GirlSvg style={{ width: 850, height: 850 }} />
+              {/* User-provided Girl SVG (shoes firmly touching the ground bar) */}
+              <GirlSvg style={{ width: 440, height: 696, display: "block" }} />
             </div>
           </div>
 
@@ -663,7 +676,7 @@ export const MashaProblemVisual: React.FC = () => {
               background: "linear-gradient(to right, #CBD5E1, #94A3B8, #CBD5E1)",
               borderRadius: 22,
               boxShadow: "0 18px 45px rgba(0,0,0,0.15)",
-              marginTop: -20,
+              marginTop: 0,
             }}
           />
         </div>
