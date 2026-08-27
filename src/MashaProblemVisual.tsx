@@ -573,7 +573,7 @@ export const MashaProblemVisual: React.FC = () => {
                 <div
                   style={{
                     position: "absolute",
-                    top: 80,
+                    top: 75,
                     left: 105,
                     width: 510,
                     height: 330,
@@ -586,30 +586,13 @@ export const MashaProblemVisual: React.FC = () => {
                     fontFamily,
                   }}
                 >
-                  {/* Creative announcement pill */}
-                  <div
-                    style={{
-                      background: "#DC2626",
-                      color: "#FFFFFF",
-                      fontSize: 30,
-                      fontWeight: 900,
-                      padding: "5px 24px",
-                      borderRadius: 999,
-                      marginBottom: 8,
-                      letterSpacing: 0.5,
-                      boxShadow: "0 4px 12px rgba(220, 38, 38, 0.25)",
-                    }}
-                  >
-                    📢 تسعيرة جديدة
-                  </div>
-
                   {/* Main text */}
                   <div
                     style={{
-                      fontSize: 54,
+                      fontSize: 66,
                       fontWeight: 900,
                       color: "#2C140A",
-                      lineHeight: 1.15,
+                      lineHeight: 1.2,
                     }}
                   >
                     الأسعار بتزيد
@@ -621,14 +604,14 @@ export const MashaProblemVisual: React.FC = () => {
                       display: "flex",
                       alignItems: "baseline",
                       justifyContent: "center",
-                      gap: 12,
-                      marginTop: 6,
+                      gap: 14,
+                      marginTop: 12,
                       direction: "rtl",
                     }}
                   >
                     <span
                       style={{
-                        fontSize: 66,
+                        fontSize: 76,
                         fontWeight: 900,
                         color: "#DC2626",
                         lineHeight: 1,
@@ -638,13 +621,13 @@ export const MashaProblemVisual: React.FC = () => {
                     </span>
                     <span
                       style={{
-                        fontSize: 48,
+                        fontSize: 54,
                         fontWeight: 900,
                         color: "#442416",
                         lineHeight: 1,
                       }}
                     >
-                      كل يوم! 💸
+                      كل يوم!
                     </span>
                   </div>
                 </div>
@@ -733,7 +716,7 @@ export const MashaProblemVisual: React.FC = () => {
               }}
             >
               <div style={{ fontSize: 78, fontWeight: 900, color: "#2563EB" }}>
-                🗓️ اليوم الأول
+                اليوم الأول
               </div>
               {/* Single Chocolate bar */}
               <div style={{ fontSize: 260, margin: "40px 0" }}>🍫</div>
@@ -765,7 +748,7 @@ export const MashaProblemVisual: React.FC = () => {
                   textAlign: "center",
                 }}
               >
-                + 10 جنيه 📈
+                + 10 جنيه
               </div>
 
               {/* Geometric SVG arrow pointing LEFT (from Day 1 to Day 2 in RTL) */}
@@ -794,7 +777,7 @@ export const MashaProblemVisual: React.FC = () => {
               }}
             >
               <div style={{ fontSize: 78, fontWeight: 900, color: "#DC2626" }}>
-                🗓️ اليوم الثاني
+                اليوم الثاني
               </div>
               {/* STILL ONE single chocolate bar, now costing 11 EGP! */}
               <div style={{ fontSize: 260, margin: "40px 0" }}>🍫</div>
@@ -834,7 +817,7 @@ export const MashaProblemVisual: React.FC = () => {
               opacity: formulaSpring,
             }}
           >
-            <span style={{ fontSize: 70, color: "#FDE047" }}>💡 فكرة المسألة:</span>
+            <span style={{ fontSize: 70, color: "#FDE047" }}>فكرة المسألة:</span>
             <span
               style={{
                 fontSize: 66,
@@ -917,7 +900,7 @@ export const MashaProblemVisual: React.FC = () => {
                   fontWeight: 900,
                 }}
               >
-                Accepted ✔️ 15ms
+                Accepted 15ms
               </div>
             </div>
 
