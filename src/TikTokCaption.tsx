@@ -154,10 +154,10 @@ export const TikTokCaption: React.FC<{
         style={{
           opacity: containerOpacity,
           transform: `translateY(${containerY}px)`,
-          maxWidth: 960,
+          maxWidth: 1750,
           textAlign: "center",
           direction: "rtl",
-          padding: "16px 24px",
+          padding: "16px 36px",
           textShadow: "0 4px 24px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.9)",
           lineHeight: 1.35,
         }}
