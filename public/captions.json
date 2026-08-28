@@ -1,179 +1,1764 @@
 [
   {
-    "startMs": 250,
-    "endMs": 2550,
-    "text": "هو ليه الشركات بتدور على الناس",
+    "startMs": 280,
+    "endMs": 2720,
+    "text": "هو ليه الشركات بتدور على الناس اللي بتروح",
     "words": [
-      { "text": "هو", "startMs": 250, "endMs": 550 },
-      { "text": "ليه", "startMs": 550, "endMs": 850 },
-      { "text": "الشركات", "startMs": 850, "endMs": 1400 },
-      { "text": "بتدور", "startMs": 1400, "endMs": 1900 },
-      { "text": "على", "startMs": 1900, "endMs": 2150 },
-      { "text": "الناس", "startMs": 2150, "endMs": 2550 }
+      {
+        "text": "هو",
+        "startMs": 280,
+        "endMs": 420
+      },
+      {
+        "text": "ليه",
+        "startMs": 520,
+        "endMs": 630
+      },
+      {
+        "text": "الشركات",
+        "startMs": 630,
+        "endMs": 1020
+      },
+      {
+        "text": "بتدور",
+        "startMs": 1040,
+        "endMs": 1460
+      },
+      {
+        "text": "على",
+        "startMs": 1500,
+        "endMs": 1660
+      },
+      {
+        "text": "الناس",
+        "startMs": 1680,
+        "endMs": 1980
+      },
+      {
+        "text": "اللي",
+        "startMs": 2080,
+        "endMs": 2240
+      },
+      {
+        "text": "بتروح",
+        "startMs": 2280,
+        "endMs": 2720
+      }
     ]
   },
   {
-    "startMs": 3080,
-    "endMs": 4080,
-    "text": "اللي بتروح الـ ECPC؟",
+    "startMs": 2740,
+    "endMs": 6220,
+    "text": "الـ ECPC؟ لو ما تعرفش إيه هي مسابقة الـ ICPC:",
     "words": [
-      { "text": "اللي", "startMs": 3080, "endMs": 3380 },
-      { "text": "بتروح", "startMs": 3380, "endMs": 3700 },
-      { "text": "الـ ECPC؟", "startMs": 3700, "endMs": 4080 }
+      {
+        "text": "الـ",
+        "startMs": 2740,
+        "endMs": 3070
+      },
+      {
+        "text": "ECPC؟",
+        "startMs": 3080,
+        "endMs": 4120
+      },
+      {
+        "text": "لو",
+        "startMs": 4360,
+        "endMs": 4440
+      },
+      {
+        "text": "ما",
+        "startMs": 4460,
+        "endMs": 4600
+      },
+      {
+        "text": "تعرفش",
+        "startMs": 4610,
+        "endMs": 4860
+      },
+      {
+        "text": "إيه",
+        "startMs": 4880,
+        "endMs": 5120
+      },
+      {
+        "text": "هي",
+        "startMs": 5130,
+        "endMs": 5200
+      },
+      {
+        "text": "مسابقة",
+        "startMs": 5210,
+        "endMs": 5260
+      },
+      {
+        "text": "الـ",
+        "startMs": 5260,
+        "endMs": 5350
+      },
+      {
+        "text": "ICPC:",
+        "startMs": 5360,
+        "endMs": 6220
+      }
     ]
   },
   {
-    "startMs": 5020,
-    "endMs": 6620,
-    "text": "لو ما تعرفش إيه هي مسابقة الـ ICPC:",
+    "startMs": 6300,
+    "endMs": 9960,
+    "text": "هي مسابقة عالمية بتبدأ من الـ ECPC على مستوى",
     "words": [
-      { "text": "لو", "startMs": 5020, "endMs": 5180 },
-      { "text": "ما", "startMs": 5180, "endMs": 5340 },
-      { "text": "تعرفش", "startMs": 5340, "endMs": 5780 },
-      { "text": "إيه", "startMs": 5840, "endMs": 6000 },
-      { "text": "هي", "startMs": 6000, "endMs": 6140 },
-      { "text": "مسابقة", "startMs": 6140, "endMs": 6380 },
-      { "text": "الـ ICPC:", "startMs": 6380, "endMs": 6620 }
+      {
+        "text": "هي",
+        "startMs": 6300,
+        "endMs": 6420
+      },
+      {
+        "text": "مسابقة",
+        "startMs": 6520,
+        "endMs": 6880
+      },
+      {
+        "text": "عالمية",
+        "startMs": 6940,
+        "endMs": 7660
+      },
+      {
+        "text": "بتبدأ",
+        "startMs": 7720,
+        "endMs": 8180
+      },
+      {
+        "text": "من",
+        "startMs": 8220,
+        "endMs": 8360
+      },
+      {
+        "text": "الـ",
+        "startMs": 8400,
+        "endMs": 8780
+      },
+      {
+        "text": "ECPC",
+        "startMs": 8790,
+        "endMs": 9300
+      },
+      {
+        "text": "على",
+        "startMs": 9500,
+        "endMs": 9580
+      },
+      {
+        "text": "مستوى",
+        "startMs": 9660,
+        "endMs": 9960
+      }
     ]
   },
   {
-    "startMs": 6940,
-    "endMs": 10000,
-    "text": "هي مسابقة عالمية بتبدأ من الـ ECPC على مستوى مصر",
+    "startMs": 10000,
+    "endMs": 12720,
+    "text": "مصر، الـ ACPC على مستوى عرب وإفريقيا،",
     "words": [
-      { "text": "هي", "startMs": 6940, "endMs": 7150 },
-      { "text": "مسابقة", "startMs": 7150, "endMs": 7500 },
-      { "text": "عالمية", "startMs": 7500, "endMs": 7800 },
-      { "text": "بتبدأ", "startMs": 7800, "endMs": 8150 },
-      { "text": "من", "startMs": 8360, "endMs": 8500 },
-      { "text": "الـ ECPC", "startMs": 8500, "endMs": 8850 },
-      { "text": "على", "startMs": 8850, "endMs": 9100 },
-      { "text": "مستوى", "startMs": 9100, "endMs": 9500 },
-      { "text": "مصر", "startMs": 9500, "endMs": 10000 }
+      {
+        "text": "مصر،",
+        "startMs": 10000,
+        "endMs": 10380
+      },
+      {
+        "text": "الـ",
+        "startMs": 10420,
+        "endMs": 10630
+      },
+      {
+        "text": "ACPC",
+        "startMs": 10700,
+        "endMs": 11540
+      },
+      {
+        "text": "على",
+        "startMs": 11580,
+        "endMs": 11720
+      },
+      {
+        "text": "مستوى",
+        "startMs": 11760,
+        "endMs": 12040
+      },
+      {
+        "text": "عرب",
+        "startMs": 12060,
+        "endMs": 12240
+      },
+      {
+        "text": "وإفريقيا،",
+        "startMs": 12280,
+        "endMs": 12720
+      }
     ]
   },
   {
-    "startMs": 10140,
-    "endMs": 13450,
-    "text": "الـ ACPC على مستوى العرب وإفريقيا",
+    "startMs": 13180,
+    "endMs": 16020,
+    "text": "والـ ICPC على مستوى العالم! يعني ممكن تلاقي",
     "words": [
-      { "text": "الـ ACPC", "startMs": 10140, "endMs": 11200 },
-      { "text": "على", "startMs": 11250, "endMs": 11500 },
-      { "text": "مستوى", "startMs": 11500, "endMs": 12050 },
-      { "text": "العرب", "startMs": 12200, "endMs": 12750 },
-      { "text": "وإفريقيا", "startMs": 12750, "endMs": 13450 }
-    ]
-  },
-  {
-    "startMs": 13840,
-    "endMs": 15800,
-    "text": "والـ ICPC على مستوى العالم",
-    "words": [
-      { "text": "والـ ICPC", "startMs": 13840, "endMs": 14800 },
-      { "text": "على", "startMs": 14950, "endMs": 15200 },
-      { "text": "مستوى", "startMs": 15200, "endMs": 15450 },
-      { "text": "العالم", "startMs": 15450, "endMs": 15800 }
+      {
+        "text": "والـ",
+        "startMs": 13180,
+        "endMs": 13460
+      },
+      {
+        "text": "ICPC",
+        "startMs": 13470,
+        "endMs": 14260
+      },
+      {
+        "text": "على",
+        "startMs": 14340,
+        "endMs": 14460
+      },
+      {
+        "text": "مستوى",
+        "startMs": 14500,
+        "endMs": 14760
+      },
+      {
+        "text": "العالم!",
+        "startMs": 14780,
+        "endMs": 15360
+      },
+      {
+        "text": "يعني",
+        "startMs": 15380,
+        "endMs": 15530
+      },
+      {
+        "text": "ممكن",
+        "startMs": 15560,
+        "endMs": 15780
+      },
+      {
+        "text": "تلاقي",
+        "startMs": 15820,
+        "endMs": 16020
+      }
     ]
   },
   {
     "startMs": 16060,
-    "endMs": 20200,
-    "text": "يعني ممكن تلاقي الصين والهند والحتت دي!",
+    "endMs": 18400,
+    "text": "الصين والهند والحتت دي! طيب إيه الحاجات",
     "words": [
-      { "text": "يعني", "startMs": 16060, "endMs": 16400 },
-      { "text": "ممكن", "startMs": 16400, "endMs": 16800 },
-      { "text": "تلاقي", "startMs": 16800, "endMs": 17400 },
-      { "text": "الصين", "startMs": 17450, "endMs": 18150 },
-      { "text": "والهند", "startMs": 18300, "endMs": 19000 },
-      { "text": "والحتت", "startMs": 19050, "endMs": 19800 },
-      { "text": "دي!", "startMs": 19850, "endMs": 20200 }
+      {
+        "text": "الصين",
+        "startMs": 16060,
+        "endMs": 16360
+      },
+      {
+        "text": "والهند",
+        "startMs": 16400,
+        "endMs": 16720
+      },
+      {
+        "text": "والحتت",
+        "startMs": 16840,
+        "endMs": 17140
+      },
+      {
+        "text": "دي!",
+        "startMs": 17260,
+        "endMs": 17380
+      },
+      {
+        "text": "طيب",
+        "startMs": 17680,
+        "endMs": 18000
+      },
+      {
+        "text": "إيه",
+        "startMs": 18020,
+        "endMs": 18070
+      },
+      {
+        "text": "الحاجات",
+        "startMs": 18070,
+        "endMs": 18400
+      }
     ]
   },
   {
-    "startMs": 20380,
-    "endMs": 22550,
-    "text": "طيب إيه الحاجات اللي أنا محتاج أذاكرها؟",
+    "startMs": 18420,
+    "endMs": 20340,
+    "text": "اللي أنا محتاج أذاكرها؟ أو مثلًا إيه",
     "words": [
-      { "text": "طيب", "startMs": 20380, "endMs": 20550 },
-      { "text": "إيه", "startMs": 20550, "endMs": 20750 },
-      { "text": "الحاجات", "startMs": 20750, "endMs": 21200 },
-      { "text": "اللي", "startMs": 21200, "endMs": 21400 },
-      { "text": "أنا", "startMs": 21400, "endMs": 21650 },
-      { "text": "محتاج", "startMs": 21650, "endMs": 22050 },
-      { "text": "أذاكرها؟", "startMs": 22050, "endMs": 22550 }
+      {
+        "text": "اللي",
+        "startMs": 18420,
+        "endMs": 18490
+      },
+      {
+        "text": "أنا",
+        "startMs": 18500,
+        "endMs": 18600
+      },
+      {
+        "text": "محتاج",
+        "startMs": 18640,
+        "endMs": 18950
+      },
+      {
+        "text": "أذاكرها؟",
+        "startMs": 19020,
+        "endMs": 19500
+      },
+      {
+        "text": "أو",
+        "startMs": 19730,
+        "endMs": 19880
+      },
+      {
+        "text": "مثلًا",
+        "startMs": 19940,
+        "endMs": 20180
+      },
+      {
+        "text": "إيه",
+        "startMs": 20200,
+        "endMs": 20340
+      }
     ]
   },
   {
-    "startMs": 23140,
-    "endMs": 26250,
-    "text": "أو مثلاً إيه الأسئلة اللي ممكن أشوفها في المسابقة؟",
+    "startMs": 20350,
+    "endMs": 21900,
+    "text": "الأسئلة اللي ممكن أشوفها في المسابقة دي؟",
     "words": [
-      { "text": "أو", "startMs": 23140, "endMs": 23300 },
-      { "text": "مثلاً", "startMs": 23300, "endMs": 23750 },
-      { "text": "إيه", "startMs": 23750, "endMs": 24000 },
-      { "text": "الأسئلة", "startMs": 24000, "endMs": 24450 },
-      { "text": "اللي", "startMs": 24450, "endMs": 24700 },
-      { "text": "ممكن", "startMs": 24700, "endMs": 25000 },
-      { "text": "أشوفها", "startMs": 25000, "endMs": 25450 },
-      { "text": "في", "startMs": 25500, "endMs": 25700 },
-      { "text": "المسابقة؟", "startMs": 25700, "endMs": 26250 }
+      {
+        "text": "الأسئلة",
+        "startMs": 20350,
+        "endMs": 20660
+      },
+      {
+        "text": "اللي",
+        "startMs": 20670,
+        "endMs": 20700
+      },
+      {
+        "text": "ممكن",
+        "startMs": 20740,
+        "endMs": 20980
+      },
+      {
+        "text": "أشوفها",
+        "startMs": 20990,
+        "endMs": 21170
+      },
+      {
+        "text": "في",
+        "startMs": 21180,
+        "endMs": 21220
+      },
+      {
+        "text": "المسابقة",
+        "startMs": 21230,
+        "endMs": 21690
+      },
+      {
+        "text": "دي؟",
+        "startMs": 21740,
+        "endMs": 21900
+      }
     ]
   },
   {
-    "startMs": 26640,
-    "endMs": 31100,
-    "text": "بكل بساطة بنتعلم توبيك جديد اسمه الـ Problem Solving",
+    "startMs": 22480,
+    "endMs": 24720,
+    "text": "بكل بساطة بنتعلم عن Topic جديد اسمه",
     "words": [
-      { "text": "بكل", "startMs": 26640, "endMs": 26950 },
-      { "text": "بساطة", "startMs": 26950, "endMs": 27550 },
-      { "text": "بنتعلم", "startMs": 28000, "endMs": 28500 },
-      { "text": "توبيك", "startMs": 28500, "endMs": 28950 },
-      { "text": "جديد", "startMs": 28950, "endMs": 29750 },
-      { "text": "اسمه", "startMs": 30050, "endMs": 30350 },
-      { "text": "الـ", "startMs": 30350, "endMs": 30550 },
-      { "text": "Problem", "startMs": 30550, "endMs": 30800 },
-      { "text": "Solving", "startMs": 30800, "endMs": 31100 }
+      {
+        "text": "بكل",
+        "startMs": 22480,
+        "endMs": 22680
+      },
+      {
+        "text": "بساطة",
+        "startMs": 22760,
+        "endMs": 23180
+      },
+      {
+        "text": "بنتعلم",
+        "startMs": 23260,
+        "endMs": 23700
+      },
+      {
+        "text": "عن",
+        "startMs": 23740,
+        "endMs": 23840
+      },
+      {
+        "text": "Topic",
+        "startMs": 23860,
+        "endMs": 24100
+      },
+      {
+        "text": "جديد",
+        "startMs": 24140,
+        "endMs": 24440
+      },
+      {
+        "text": "اسمه",
+        "startMs": 24460,
+        "endMs": 24720
+      }
     ]
   },
   {
-    "startMs": 31250,
-    "endMs": 34850,
-    "text": "وعشان الـ Problem Solving يوصلكم بمثال بسيط",
+    "startMs": 24730,
+    "endMs": 27780,
+    "text": "الـ Problem Solving.. والـ Problem Solving كمثال",
     "words": [
-      { "text": "وعشان", "startMs": 31250, "endMs": 31600 },
-      { "text": "الـ", "startMs": 31600, "endMs": 31800 },
-      { "text": "Problem", "startMs": 31800, "endMs": 32050 },
-      { "text": "Solving", "startMs": 32050, "endMs": 32250 },
-      { "text": "يوصلكم", "startMs": 32550, "endMs": 33400 },
-      { "text": "بمثال", "startMs": 33400, "endMs": 34100 },
-      { "text": "بسيط", "startMs": 34100, "endMs": 34850 }
+      {
+        "text": "الـ",
+        "startMs": 24730,
+        "endMs": 24850
+      },
+      {
+        "text": "Problem",
+        "startMs": 24860,
+        "endMs": 25180
+      },
+      {
+        "text": "Solving..",
+        "startMs": 25280,
+        "endMs": 25620
+      },
+      {
+        "text": "والـ",
+        "startMs": 25980,
+        "endMs": 26110
+      },
+      {
+        "text": "Problem",
+        "startMs": 26120,
+        "endMs": 26400
+      },
+      {
+        "text": "Solving",
+        "startMs": 26500,
+        "endMs": 27280
+      },
+      {
+        "text": "كمثال",
+        "startMs": 27340,
+        "endMs": 27780
+      }
     ]
   },
-  { "startMs": 35200, "endMs": 38200, "text": "هديكم سؤال إحنا حليناه في المسابقة قبل 5 أيام" },
-  { "startMs": 38200, "endMs": 40720, "text": "وده كان أسهل سؤال في المسابقة اسمه: \"ماشا والدب\"" },
-  { "startMs": 41560, "endMs": 43520, "text": "السؤال بكل اختصار بيقولك إن ماشا بتحب تشتري شوكولاتة" },
-  { "startMs": 43980, "endMs": 46380, "text": "بس بتشتريها من محل غريب شويتين" },
-  { "startMs": 46850, "endMs": 48780, "text": "الفكرة بتاعته إنه بيزود سعر المنتج كل يوم 10 جنيه" },
-  { "startMs": 48950, "endMs": 50800, "text": "يعني أنت لو اشتريت في اليوم الأول الشوكولاتة بجنيه" },
-  { "startMs": 50900, "endMs": 52900, "text": "اليوم التاني هتبقى بـ 11 جنيه" },
-  { "startMs": 52900, "endMs": 55900, "text": "وهيقولك بكل بساطة: اعملهالي كود!" },
-  { "startMs": 55900, "endMs": 58800, "text": "أياً يكن: C++, Python, Java.. المهم تعملهالي كود" },
-  { "startMs": 58800, "endMs": 61800, "text": "دي بكل بساطة هي الـ Problem Solving" },
-  { "startMs": 61800, "endMs": 64700, "text": "ولو ما تعرفش، فيه Community عندنا في جامعة حورس" },
-  { "startMs": 64700, "endMs": 67700, "text": "للـ Problem Solving والـ ICPC اسمه ICPC HUE" },
-  { "startMs": 67700, "endMs": 70600, "text": "الـ Community متأسس من 8 شهور" },
-  { "startMs": 70600, "endMs": 73600, "text": "عرفنا نطلّع 16 فريق للمسابقة" },
-  { "startMs": 73600, "endMs": 76500, "text": "اللي كانت قبل 5 أيام من كل كليات حورس!" },
-  { "startMs": 76500, "endMs": 79400, "text": "والتسجيل مفتوح حالياً؛ تعرف تسجل" },
-  { "startMs": 79400, "endMs": 82400, "text": "حتى لو ما عندكش أي خبرة في البرمجة" },
-  { "startMs": 82400, "endMs": 85300, "text": "ومن أي كلية في حورس" },
-  { "startMs": 85300, "endMs": 88300, "text": "نرجع بقى لسؤالنا اللي كان في أول الفيديو:" },
-  { "startMs": 88300, "endMs": 91200, "text": "ليه الشركات بتجري ورا الناس اللي بتروح المسابقة دي؟" },
-  { "startMs": 91200, "endMs": 94100, "text": "بكل بساطة، لأن أصل الإنترفيو بتاعك بيكون Problem Solving!" },
-  { "startMs": 94100, "endMs": 97100, "text": "هو هيعرف منين إنك بتعرف تكوّد؟" },
-  { "startMs": 97100, "endMs": 100000, "text": "أو مهارة حل المشاكل عندك كويسة؟" },
-  { "startMs": 100000, "endMs": 103000, "text": "افرض جاتلك مشكلة في الـ Database هتحلها إزاي؟" },
-  { "startMs": 103000, "endMs": 105900, "text": "الـ Problem Solving بتعلمك المشاكل دي!" },
-  { "startMs": 105900, "endMs": 108900, "text": "وأسيبكم مع باقي الفيديو من أول الرحلة من عند حورس" },
-  { "startMs": 108900, "endMs": 111000, "text": "لغاية نهاية الرحلة ورجوعنا لدمياط!" }
+  {
+    "startMs": 27860,
+    "endMs": 30760,
+    "text": "بسيط عشان يوصل لكم، هديكم سؤال إحنا",
+    "words": [
+      {
+        "text": "بسيط",
+        "startMs": 27860,
+        "endMs": 28140
+      },
+      {
+        "text": "عشان",
+        "startMs": 28180,
+        "endMs": 28420
+      },
+      {
+        "text": "يوصل",
+        "startMs": 28460,
+        "endMs": 28780
+      },
+      {
+        "text": "لكم،",
+        "startMs": 28790,
+        "endMs": 29380
+      },
+      {
+        "text": "هديكم",
+        "startMs": 29420,
+        "endMs": 29920
+      },
+      {
+        "text": "سؤال",
+        "startMs": 29940,
+        "endMs": 30580
+      },
+      {
+        "text": "إحنا",
+        "startMs": 30590,
+        "endMs": 30760
+      }
+    ]
+  },
+  {
+    "startMs": 30800,
+    "endMs": 33380,
+    "text": "حليناه في المسابقة قبل 5 أيام، وده كان أسهل",
+    "words": [
+      {
+        "text": "حليناه",
+        "startMs": 30800,
+        "endMs": 31030
+      },
+      {
+        "text": "في",
+        "startMs": 31080,
+        "endMs": 31110
+      },
+      {
+        "text": "المسابقة",
+        "startMs": 31120,
+        "endMs": 31880
+      },
+      {
+        "text": "قبل",
+        "startMs": 31940,
+        "endMs": 32100
+      },
+      {
+        "text": "5",
+        "startMs": 32140,
+        "endMs": 32300
+      },
+      {
+        "text": "أيام،",
+        "startMs": 32310,
+        "endMs": 32720
+      },
+      {
+        "text": "وده",
+        "startMs": 32780,
+        "endMs": 32890
+      },
+      {
+        "text": "كان",
+        "startMs": 32960,
+        "endMs": 33100
+      },
+      {
+        "text": "أسهل",
+        "startMs": 33160,
+        "endMs": 33380
+      }
+    ]
+  },
+  {
+    "startMs": 33460,
+    "endMs": 35920,
+    "text": "سؤال في المسابقة اسمه ماشا والدب! بيقول",
+    "words": [
+      {
+        "text": "سؤال",
+        "startMs": 33460,
+        "endMs": 33700
+      },
+      {
+        "text": "في",
+        "startMs": 33710,
+        "endMs": 33750
+      },
+      {
+        "text": "المسابقة",
+        "startMs": 33750,
+        "endMs": 34540
+      },
+      {
+        "text": "اسمه",
+        "startMs": 34600,
+        "endMs": 34870
+      },
+      {
+        "text": "ماشا",
+        "startMs": 34960,
+        "endMs": 35260
+      },
+      {
+        "text": "والدب!",
+        "startMs": 35320,
+        "endMs": 35720
+      },
+      {
+        "text": "بيقول",
+        "startMs": 35830,
+        "endMs": 35920
+      }
+    ]
+  },
+  {
+    "startMs": 35960,
+    "endMs": 38750,
+    "text": "لك إن ماشا بتحب تشتري شيكولاتة، بس بتشتريها",
+    "words": [
+      {
+        "text": "لك",
+        "startMs": 35960,
+        "endMs": 36100
+      },
+      {
+        "text": "إن",
+        "startMs": 36140,
+        "endMs": 36220
+      },
+      {
+        "text": "ماشا",
+        "startMs": 36300,
+        "endMs": 36580
+      },
+      {
+        "text": "بتحب",
+        "startMs": 36640,
+        "endMs": 37030
+      },
+      {
+        "text": "تشتري",
+        "startMs": 37140,
+        "endMs": 37420
+      },
+      {
+        "text": "شيكولاتة،",
+        "startMs": 37480,
+        "endMs": 38100
+      },
+      {
+        "text": "بس",
+        "startMs": 38110,
+        "endMs": 38400
+      },
+      {
+        "text": "بتشتريها",
+        "startMs": 38460,
+        "endMs": 38750
+      }
+    ]
+  },
+  {
+    "startMs": 38800,
+    "endMs": 41720,
+    "text": "من محل غريب شويتين! الفكرة بتاعته إن هو",
+    "words": [
+      {
+        "text": "من",
+        "startMs": 38800,
+        "endMs": 38910
+      },
+      {
+        "text": "محل",
+        "startMs": 38960,
+        "endMs": 39280
+      },
+      {
+        "text": "غريب",
+        "startMs": 39340,
+        "endMs": 39560
+      },
+      {
+        "text": "شويتين!",
+        "startMs": 39580,
+        "endMs": 40120
+      },
+      {
+        "text": "الفكرة",
+        "startMs": 40580,
+        "endMs": 40900
+      },
+      {
+        "text": "بتاعته",
+        "startMs": 40960,
+        "endMs": 41360
+      },
+      {
+        "text": "إن",
+        "startMs": 41420,
+        "endMs": 41560
+      },
+      {
+        "text": "هو",
+        "startMs": 41600,
+        "endMs": 41720
+      }
+    ]
+  },
+  {
+    "startMs": 41780,
+    "endMs": 45060,
+    "text": "بيزود سعر المنتج كل يوم 10 جنيه.. يعني إنت",
+    "words": [
+      {
+        "text": "بيزود",
+        "startMs": 41780,
+        "endMs": 42260
+      },
+      {
+        "text": "سعر",
+        "startMs": 42300,
+        "endMs": 42520
+      },
+      {
+        "text": "المنتج",
+        "startMs": 42540,
+        "endMs": 43360
+      },
+      {
+        "text": "كل",
+        "startMs": 43420,
+        "endMs": 43660
+      },
+      {
+        "text": "يوم",
+        "startMs": 43700,
+        "endMs": 44080
+      },
+      {
+        "text": "10",
+        "startMs": 44140,
+        "endMs": 44420
+      },
+      {
+        "text": "جنيه..",
+        "startMs": 44480,
+        "endMs": 44710
+      },
+      {
+        "text": "يعني",
+        "startMs": 44840,
+        "endMs": 44990
+      },
+      {
+        "text": "إنت",
+        "startMs": 44990,
+        "endMs": 45060
+      }
+    ]
+  },
+  {
+    "startMs": 45080,
+    "endMs": 47080,
+    "text": "لو اشتريت في اليوم الأول الشوكولاتة بجنيه،",
+    "words": [
+      {
+        "text": "لو",
+        "startMs": 45080,
+        "endMs": 45180
+      },
+      {
+        "text": "اشتريت",
+        "startMs": 45190,
+        "endMs": 45440
+      },
+      {
+        "text": "في",
+        "startMs": 45500,
+        "endMs": 45580
+      },
+      {
+        "text": "اليوم",
+        "startMs": 45590,
+        "endMs": 45740
+      },
+      {
+        "text": "الأول",
+        "startMs": 45780,
+        "endMs": 45890
+      },
+      {
+        "text": "الشوكولاتة",
+        "startMs": 45920,
+        "endMs": 46760
+      },
+      {
+        "text": "بجنيه،",
+        "startMs": 46780,
+        "endMs": 47080
+      }
+    ]
+  },
+  {
+    "startMs": 47380,
+    "endMs": 49860,
+    "text": "اليوم التاني هتبقى بـ 11 جنيه.. هيقول لك بكل",
+    "words": [
+      {
+        "text": "اليوم",
+        "startMs": 47380,
+        "endMs": 47620
+      },
+      {
+        "text": "التاني",
+        "startMs": 47660,
+        "endMs": 47940
+      },
+      {
+        "text": "هتبقى",
+        "startMs": 48000,
+        "endMs": 48190
+      },
+      {
+        "text": "بـ",
+        "startMs": 48240,
+        "endMs": 48250
+      },
+      {
+        "text": "11",
+        "startMs": 48260,
+        "endMs": 48680
+      },
+      {
+        "text": "جنيه..",
+        "startMs": 48720,
+        "endMs": 48910
+      },
+      {
+        "text": "هيقول",
+        "startMs": 49320,
+        "endMs": 49460
+      },
+      {
+        "text": "لك",
+        "startMs": 49470,
+        "endMs": 49580
+      },
+      {
+        "text": "بكل",
+        "startMs": 49600,
+        "endMs": 49860
+      }
+    ]
+  },
+  {
+    "startMs": 49880,
+    "endMs": 52500,
+    "text": "بساطة: اعمل لي دي كود، أياً كان بـ C++,",
+    "words": [
+      {
+        "text": "بساطة:",
+        "startMs": 49880,
+        "endMs": 50220
+      },
+      {
+        "text": "اعمل",
+        "startMs": 50240,
+        "endMs": 50480
+      },
+      {
+        "text": "لي",
+        "startMs": 50490,
+        "endMs": 50600
+      },
+      {
+        "text": "دي",
+        "startMs": 50620,
+        "endMs": 50740
+      },
+      {
+        "text": "كود،",
+        "startMs": 50800,
+        "endMs": 51040
+      },
+      {
+        "text": "أياً",
+        "startMs": 51120,
+        "endMs": 51300
+      },
+      {
+        "text": "كان",
+        "startMs": 51310,
+        "endMs": 51520
+      },
+      {
+        "text": "بـ",
+        "startMs": 51540,
+        "endMs": 51610
+      },
+      {
+        "text": "C++,",
+        "startMs": 51640,
+        "endMs": 52500
+      }
+    ]
+  },
+  {
+    "startMs": 52520,
+    "endMs": 55080,
+    "text": "Python, Java.. المهم إن إنت تعمل لها كود!",
+    "words": [
+      {
+        "text": "Python,",
+        "startMs": 52520,
+        "endMs": 52930
+      },
+      {
+        "text": "Java..",
+        "startMs": 53200,
+        "endMs": 53480
+      },
+      {
+        "text": "المهم",
+        "startMs": 53660,
+        "endMs": 53880
+      },
+      {
+        "text": "إن",
+        "startMs": 53900,
+        "endMs": 53990
+      },
+      {
+        "text": "إنت",
+        "startMs": 53990,
+        "endMs": 54040
+      },
+      {
+        "text": "تعمل",
+        "startMs": 54120,
+        "endMs": 54380
+      },
+      {
+        "text": "لها",
+        "startMs": 54390,
+        "endMs": 54460
+      },
+      {
+        "text": "كود!",
+        "startMs": 54660,
+        "endMs": 55080
+      }
+    ]
+  },
+  {
+    "startMs": 55120,
+    "endMs": 57720,
+    "text": "دي بكل بساطة هي الـ Problem Solving.. ولو",
+    "words": [
+      {
+        "text": "دي",
+        "startMs": 55120,
+        "endMs": 55220
+      },
+      {
+        "text": "بكل",
+        "startMs": 55240,
+        "endMs": 55440
+      },
+      {
+        "text": "بساطة",
+        "startMs": 55540,
+        "endMs": 55920
+      },
+      {
+        "text": "هي",
+        "startMs": 55930,
+        "endMs": 56060
+      },
+      {
+        "text": "الـ",
+        "startMs": 56100,
+        "endMs": 56230
+      },
+      {
+        "text": "Problem",
+        "startMs": 56240,
+        "endMs": 56620
+      },
+      {
+        "text": "Solving..",
+        "startMs": 56740,
+        "endMs": 57140
+      },
+      {
+        "text": "ولو",
+        "startMs": 57520,
+        "endMs": 57720
+      }
+    ]
+  },
+  {
+    "startMs": 57760,
+    "endMs": 60680,
+    "text": "ما تعرفش، في Community عندنا في جامعة حورس",
+    "words": [
+      {
+        "text": "ما",
+        "startMs": 57760,
+        "endMs": 57950
+      },
+      {
+        "text": "تعرفش،",
+        "startMs": 57960,
+        "endMs": 58180
+      },
+      {
+        "text": "في",
+        "startMs": 58300,
+        "endMs": 58420
+      },
+      {
+        "text": "Community",
+        "startMs": 58460,
+        "endMs": 58920
+      },
+      {
+        "text": "عندنا",
+        "startMs": 59000,
+        "endMs": 59380
+      },
+      {
+        "text": "في",
+        "startMs": 59480,
+        "endMs": 59560
+      },
+      {
+        "text": "جامعة",
+        "startMs": 59640,
+        "endMs": 59980
+      },
+      {
+        "text": "حورس",
+        "startMs": 60040,
+        "endMs": 60680
+      }
+    ]
+  },
+  {
+    "startMs": 60740,
+    "endMs": 63980,
+    "text": "للـ Problem Solving والـ ICPC، وهو اسمه",
+    "words": [
+      {
+        "text": "للـ",
+        "startMs": 60740,
+        "endMs": 60980
+      },
+      {
+        "text": "Problem",
+        "startMs": 61000,
+        "endMs": 61280
+      },
+      {
+        "text": "Solving",
+        "startMs": 61400,
+        "endMs": 62000
+      },
+      {
+        "text": "والـ",
+        "startMs": 62040,
+        "endMs": 62400
+      },
+      {
+        "text": "ICPC،",
+        "startMs": 62410,
+        "endMs": 63260
+      },
+      {
+        "text": "وهو",
+        "startMs": 63280,
+        "endMs": 63440
+      },
+      {
+        "text": "اسمه",
+        "startMs": 63560,
+        "endMs": 63980
+      }
+    ]
+  },
+  {
+    "startMs": 64060,
+    "endMs": 65360,
+    "text": "ICPC HUE",
+    "words": [
+      {
+        "text": "ICPC",
+        "startMs": 64060,
+        "endMs": 64920
+      },
+      {
+        "text": "HUE",
+        "startMs": 65020,
+        "endMs": 65360
+      }
+    ]
+  },
+  {
+    "startMs": 66140,
+    "endMs": 68740,
+    "text": "الـ Community متأسس من 8 شهور.. عرفنا إن",
+    "words": [
+      {
+        "text": "الـ",
+        "startMs": 66140,
+        "endMs": 66250
+      },
+      {
+        "text": "Community",
+        "startMs": 66260,
+        "endMs": 66620
+      },
+      {
+        "text": "متأسس",
+        "startMs": 66660,
+        "endMs": 67180
+      },
+      {
+        "text": "من",
+        "startMs": 67220,
+        "endMs": 67340
+      },
+      {
+        "text": "8",
+        "startMs": 67350,
+        "endMs": 67600
+      },
+      {
+        "text": "شهور..",
+        "startMs": 67620,
+        "endMs": 67920
+      },
+      {
+        "text": "عرفنا",
+        "startMs": 68300,
+        "endMs": 68590
+      },
+      {
+        "text": "إن",
+        "startMs": 68660,
+        "endMs": 68740
+      }
+    ]
+  },
+  {
+    "startMs": 68750,
+    "endMs": 72140,
+    "text": "إحنا نطلع 16 فريق للمسابقة اللي كانت قبل 5",
+    "words": [
+      {
+        "text": "إحنا",
+        "startMs": 68750,
+        "endMs": 68920
+      },
+      {
+        "text": "نطلع",
+        "startMs": 68940,
+        "endMs": 69360
+      },
+      {
+        "text": "16",
+        "startMs": 69380,
+        "endMs": 70020
+      },
+      {
+        "text": "فريق",
+        "startMs": 70080,
+        "endMs": 70440
+      },
+      {
+        "text": "للمسابقة",
+        "startMs": 70500,
+        "endMs": 71260
+      },
+      {
+        "text": "اللي",
+        "startMs": 71300,
+        "endMs": 71420
+      },
+      {
+        "text": "كانت",
+        "startMs": 71460,
+        "endMs": 71660
+      },
+      {
+        "text": "قبل",
+        "startMs": 71700,
+        "endMs": 71860
+      },
+      {
+        "text": "5",
+        "startMs": 71880,
+        "endMs": 72140
+      }
+    ]
+  },
+  {
+    "startMs": 72180,
+    "endMs": 76080,
+    "text": "أيام من كل كليات حورس! والتسجيل مفتوح",
+    "words": [
+      {
+        "text": "أيام",
+        "startMs": 72180,
+        "endMs": 72780
+      },
+      {
+        "text": "من",
+        "startMs": 72840,
+        "endMs": 73020
+      },
+      {
+        "text": "كل",
+        "startMs": 73060,
+        "endMs": 73280
+      },
+      {
+        "text": "كليات",
+        "startMs": 73340,
+        "endMs": 73880
+      },
+      {
+        "text": "حورس!",
+        "startMs": 73940,
+        "endMs": 74780
+      },
+      {
+        "text": "والتسجيل",
+        "startMs": 74800,
+        "endMs": 75740
+      },
+      {
+        "text": "مفتوح",
+        "startMs": 75760,
+        "endMs": 76080
+      }
+    ]
+  },
+  {
+    "startMs": 76100,
+    "endMs": 78780,
+    "text": "حاليًا.. تعرف تسجل حتى لو معندكش أي خبرة في",
+    "words": [
+      {
+        "text": "حاليًا..",
+        "startMs": 76100,
+        "endMs": 76540
+      },
+      {
+        "text": "تعرف",
+        "startMs": 76820,
+        "endMs": 76990
+      },
+      {
+        "text": "تسجل",
+        "startMs": 77040,
+        "endMs": 77440
+      },
+      {
+        "text": "حتى",
+        "startMs": 77480,
+        "endMs": 77680
+      },
+      {
+        "text": "لو",
+        "startMs": 77720,
+        "endMs": 77760
+      },
+      {
+        "text": "معندكش",
+        "startMs": 77820,
+        "endMs": 78160
+      },
+      {
+        "text": "أي",
+        "startMs": 78220,
+        "endMs": 78360
+      },
+      {
+        "text": "خبرة",
+        "startMs": 78440,
+        "endMs": 78660
+      },
+      {
+        "text": "في",
+        "startMs": 78720,
+        "endMs": 78780
+      }
+    ]
+  },
+  {
+    "startMs": 78800,
+    "endMs": 82160,
+    "text": "البرمجة من أي كلية في حورس! نرجع بقى",
+    "words": [
+      {
+        "text": "البرمجة",
+        "startMs": 78800,
+        "endMs": 79600
+      },
+      {
+        "text": "من",
+        "startMs": 79640,
+        "endMs": 79820
+      },
+      {
+        "text": "أي",
+        "startMs": 79880,
+        "endMs": 80100
+      },
+      {
+        "text": "كلية",
+        "startMs": 80140,
+        "endMs": 80660
+      },
+      {
+        "text": "في",
+        "startMs": 80720,
+        "endMs": 81050
+      },
+      {
+        "text": "حورس!",
+        "startMs": 81120,
+        "endMs": 81580
+      },
+      {
+        "text": "نرجع",
+        "startMs": 81780,
+        "endMs": 82040
+      },
+      {
+        "text": "بقى",
+        "startMs": 82060,
+        "endMs": 82160
+      }
+    ]
+  },
+  {
+    "startMs": 82220,
+    "endMs": 83910,
+    "text": "لسؤالنا اللي كان في أول الفيديو: ليه",
+    "words": [
+      {
+        "text": "لسؤالنا",
+        "startMs": 82220,
+        "endMs": 82580
+      },
+      {
+        "text": "اللي",
+        "startMs": 82620,
+        "endMs": 82700
+      },
+      {
+        "text": "كان",
+        "startMs": 82760,
+        "endMs": 82840
+      },
+      {
+        "text": "في",
+        "startMs": 82940,
+        "endMs": 83010
+      },
+      {
+        "text": "أول",
+        "startMs": 83010,
+        "endMs": 83180
+      },
+      {
+        "text": "الفيديو:",
+        "startMs": 83200,
+        "endMs": 83820
+      },
+      {
+        "text": "ليه",
+        "startMs": 83840,
+        "endMs": 83910
+      }
+    ]
+  },
+  {
+    "startMs": 83910,
+    "endMs": 85460,
+    "text": "الشركات بتجري ورا الناس اللي بتروح",
+    "words": [
+      {
+        "text": "الشركات",
+        "startMs": 83910,
+        "endMs": 84260
+      },
+      {
+        "text": "بتجري",
+        "startMs": 84300,
+        "endMs": 84660
+      },
+      {
+        "text": "ورا",
+        "startMs": 84680,
+        "endMs": 84840
+      },
+      {
+        "text": "الناس",
+        "startMs": 84850,
+        "endMs": 85080
+      },
+      {
+        "text": "اللي",
+        "startMs": 85120,
+        "endMs": 85170
+      },
+      {
+        "text": "بتروح",
+        "startMs": 85240,
+        "endMs": 85460
+      }
+    ]
+  },
+  {
+    "startMs": 85480,
+    "endMs": 87880,
+    "text": "المسابقة دي أو بتتأهل للمسابقة دي؟ بكل",
+    "words": [
+      {
+        "text": "المسابقة",
+        "startMs": 85480,
+        "endMs": 85920
+      },
+      {
+        "text": "دي",
+        "startMs": 85930,
+        "endMs": 85980
+      },
+      {
+        "text": "أو",
+        "startMs": 86000,
+        "endMs": 86080
+      },
+      {
+        "text": "بتتأهل",
+        "startMs": 86100,
+        "endMs": 86560
+      },
+      {
+        "text": "للمسابقة",
+        "startMs": 86570,
+        "endMs": 87050
+      },
+      {
+        "text": "دي؟",
+        "startMs": 87080,
+        "endMs": 87160
+      },
+      {
+        "text": "بكل",
+        "startMs": 87640,
+        "endMs": 87880
+      }
+    ]
+  },
+  {
+    "startMs": 87900,
+    "endMs": 90320,
+    "text": "بساطة إن أصل الإنترفيو بتاعك بيكون Problem",
+    "words": [
+      {
+        "text": "بساطة",
+        "startMs": 87900,
+        "endMs": 88260
+      },
+      {
+        "text": "إن",
+        "startMs": 88280,
+        "endMs": 88440
+      },
+      {
+        "text": "أصل",
+        "startMs": 88460,
+        "endMs": 88700
+      },
+      {
+        "text": "الإنترفيو",
+        "startMs": 88710,
+        "endMs": 89200
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 89240,
+        "endMs": 89680
+      },
+      {
+        "text": "بيكون",
+        "startMs": 89700,
+        "endMs": 90000
+      },
+      {
+        "text": "Problem",
+        "startMs": 90060,
+        "endMs": 90320
+      }
+    ]
+  },
+  {
+    "startMs": 90400,
+    "endMs": 93080,
+    "text": "Solving! هو يعرف منين إن إنت بتعرف تكود",
+    "words": [
+      {
+        "text": "Solving!",
+        "startMs": 90400,
+        "endMs": 90700
+      },
+      {
+        "text": "هو",
+        "startMs": 90980,
+        "endMs": 91120
+      },
+      {
+        "text": "يعرف",
+        "startMs": 91240,
+        "endMs": 91540
+      },
+      {
+        "text": "منين",
+        "startMs": 91580,
+        "endMs": 91920
+      },
+      {
+        "text": "إن",
+        "startMs": 91960,
+        "endMs": 92060
+      },
+      {
+        "text": "إنت",
+        "startMs": 92100,
+        "endMs": 92200
+      },
+      {
+        "text": "بتعرف",
+        "startMs": 92280,
+        "endMs": 92520
+      },
+      {
+        "text": "تكود",
+        "startMs": 92560,
+        "endMs": 93080
+      }
+    ]
+  },
+  {
+    "startMs": 93130,
+    "endMs": 95700,
+    "text": "أو مهارات حل المشاكل بتاعتك كويسة؟ وأسيبكم",
+    "words": [
+      {
+        "text": "أو",
+        "startMs": 93130,
+        "endMs": 93180
+      },
+      {
+        "text": "مهارات",
+        "startMs": 93220,
+        "endMs": 93460
+      },
+      {
+        "text": "حل",
+        "startMs": 93540,
+        "endMs": 93680
+      },
+      {
+        "text": "المشاكل",
+        "startMs": 93690,
+        "endMs": 94080
+      },
+      {
+        "text": "بتاعتك",
+        "startMs": 94120,
+        "endMs": 94460
+      },
+      {
+        "text": "كويسة؟",
+        "startMs": 94500,
+        "endMs": 95160
+      },
+      {
+        "text": "وأسيبكم",
+        "startMs": 95180,
+        "endMs": 95700
+      }
+    ]
+  },
+  {
+    "startMs": 95710,
+    "endMs": 98580,
+    "text": "مع باقي الفيديو من أول الرحلة من عند حورس",
+    "words": [
+      {
+        "text": "مع",
+        "startMs": 95710,
+        "endMs": 95750
+      },
+      {
+        "text": "باقي",
+        "startMs": 95800,
+        "endMs": 95940
+      },
+      {
+        "text": "الفيديو",
+        "startMs": 95980,
+        "endMs": 96480
+      },
+      {
+        "text": "من",
+        "startMs": 96540,
+        "endMs": 96660
+      },
+      {
+        "text": "أول",
+        "startMs": 96680,
+        "endMs": 96920
+      },
+      {
+        "text": "الرحلة",
+        "startMs": 96940,
+        "endMs": 97340
+      },
+      {
+        "text": "من",
+        "startMs": 97360,
+        "endMs": 97540
+      },
+      {
+        "text": "عند",
+        "startMs": 97580,
+        "endMs": 97820
+      },
+      {
+        "text": "حورس",
+        "startMs": 97860,
+        "endMs": 98580
+      }
+    ]
+  },
+  {
+    "startMs": 98640,
+    "endMs": 101120,
+    "text": "إلى نهاية الرحلة ورجوعنا إلى دمياط.",
+    "words": [
+      {
+        "text": "إلى",
+        "startMs": 98640,
+        "endMs": 98800
+      },
+      {
+        "text": "نهاية",
+        "startMs": 98900,
+        "endMs": 99220
+      },
+      {
+        "text": "الرحلة",
+        "startMs": 99240,
+        "endMs": 100000
+      },
+      {
+        "text": "ورجوعنا",
+        "startMs": 100040,
+        "endMs": 100410
+      },
+      {
+        "text": "إلى",
+        "startMs": 100420,
+        "endMs": 100560
+      },
+      {
+        "text": "دمياط.",
+        "startMs": 100620,
+        "endMs": 101120
+      }
+    ]
+  },
+  {
+    "startMs": 108520,
+    "endMs": 111860,
+    "text": "فكرة.. الإنجاز محتاج فكرة!",
+    "words": [
+      {
+        "text": "فكرة..",
+        "startMs": 108520,
+        "endMs": 109500
+      },
+      {
+        "text": "الإنجاز",
+        "startMs": 109520,
+        "endMs": 110460
+      },
+      {
+        "text": "محتاج",
+        "startMs": 110560,
+        "endMs": 111180
+      },
+      {
+        "text": "فكرة!",
+        "startMs": 111200,
+        "endMs": 111860
+      }
+    ]
+  },
+  {
+    "startMs": 112200,
+    "endMs": 115480,
+    "text": "ما تقولش أنا هبدأ بكرة.. حلمك",
+    "words": [
+      {
+        "text": "ما",
+        "startMs": 112200,
+        "endMs": 112340
+      },
+      {
+        "text": "تقولش",
+        "startMs": 112420,
+        "endMs": 112870
+      },
+      {
+        "text": "أنا",
+        "startMs": 113020,
+        "endMs": 113180
+      },
+      {
+        "text": "هبدأ",
+        "startMs": 113280,
+        "endMs": 114130
+      },
+      {
+        "text": "بكرة..",
+        "startMs": 114180,
+        "endMs": 114520
+      },
+      {
+        "text": "حلمك",
+        "startMs": 114860,
+        "endMs": 115480
+      }
+    ]
+  },
+  {
+    "startMs": 115540,
+    "endMs": 117520,
+    "text": "ما بيستناش!",
+    "words": [
+      {
+        "text": "ما",
+        "startMs": 115540,
+        "endMs": 115700
+      },
+      {
+        "text": "بيستناش!",
+        "startMs": 115740,
+        "endMs": 117520
+      }
+    ]
+  },
+  {
+    "startMs": 120760,
+    "endMs": 122400,
+    "text": "ICPC HUE",
+    "words": [
+      {
+        "text": "ICPC",
+        "startMs": 120760,
+        "endMs": 121720
+      },
+      {
+        "text": "HUE",
+        "startMs": 122040,
+        "endMs": 122400
+      }
+    ]
+  }
 ]
