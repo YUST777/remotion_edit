@@ -33,54 +33,36 @@ export const TikTokCaption: React.FC<{
       }));
     }
 
-    const rawWords = text.trim().split(/\s+/);
-    if (rawWords.length === 0) return [];
-
-    const weights = rawWords.map((w) => Math.max(2, w.length));
-    const totalWeight = weights.reduce((acc, curr) => acc + curr, 0);
-
-    let currentStart = 0;
-    return rawWords.map((word, i) => {
-      const wordDuration = (weights[i] / totalWeight) * totalDurationMs;
-      const startMs = currentStart;
-      const endMs = currentStart + wordDuration;
-      currentStart = endMs;
-
-      return {
-        text: word,
-        startMs,
-        endMs,
-      };
-    });
+    const rawWords = text.trim().split(/\s+/).filter(Boolean);
+    const wordDuration = totalDurationMs / Math.max(1, rawWords.length);
+    return rawWords.map((word, i) => ({
+      text: word,
+      startMs: i * wordDuration,
+      endMs: (i + 1) * wordDuration,
+    }));
   }, [text, totalDurationMs, sequenceStartMs, words]);
 
-  // Group consecutive Latin/English words into LTR clusters so phrases like "Problem Solving"
-  // and "ICPC HUE" preserve their natural Left-to-Right order inside RTL flexbox.
-  const isLatinToken = (text: string) => {
-    return !/[\u0600-\u06FF]/.test(text) && /[A-Za-z0-9]/.test(text);
-  };
+  // Group consecutive Latin/English words so phrases like "Problem Solving" or "C++, Python, Java"
+  // always flow left-to-right inside the Arabic sentence.
+  const isLatinToken = (t: string) => !/[\u0600-\u06FF]/.test(t) && /[A-Za-z0-9]/.test(t);
 
-  interface TokenChunk {
+  interface Chunk {
     isLatin: boolean;
     tokens: WordToken[];
   }
 
-  const chunks = useMemo<TokenChunk[]>(() => {
-    const result: TokenChunk[] = [];
+  const chunks = useMemo<Chunk[]>(() => {
+    const res: Chunk[] = [];
     for (const token of tokens) {
-      const isLatin = isLatinToken(token.text);
-      const lastChunk = result[result.length - 1];
-      if (lastChunk && lastChunk.isLatin && isLatin) {
-        // Group consecutive Latin words together into one LTR chunk
-        lastChunk.tokens.push(token);
+      const isLat = isLatinToken(token.text);
+      const last = res[res.length - 1];
+      if (last && last.isLatin && isLat) {
+        last.tokens.push(token);
       } else {
-        result.push({
-          isLatin,
-          tokens: [token],
-        });
+        res.push({ isLatin: isLat, tokens: [token] });
       }
     }
-    return result;
+    return res;
   }, [tokens]);
 
   // Subtle, elegant sentence fade-in and micro-lift
@@ -96,13 +78,12 @@ export const TikTokCaption: React.FC<{
   });
 
   const containerOpacity = interpolate(enterSpring, [0, 1], [0, 1]);
-  const containerY = interpolate(enterSpring, [0, 1], [15, 0]);
+  const containerY = interpolate(enterSpring, [0, 1], [12, 0]);
 
   const renderWord = (token: WordToken, globalIndex: number) => {
     const isActive = timeInMs >= token.startMs && timeInMs < token.endMs;
     const isPast = timeInMs >= token.endMs;
 
-    // Word-level micro-spring for interactive tactile feel
     const activeProgressMs = Math.max(0, timeInMs - token.startMs);
     const activeFrame = (activeProgressMs / 1000) * fps;
 
@@ -116,20 +97,17 @@ export const TikTokCaption: React.FC<{
       },
     });
 
-    // Elegant, subtle scale (1.08x instead of cartoonish 1.2x)
     const wordScale = isActive ? interpolate(wordPop, [0, 1], [1.0, 1.08]) : 1.0;
     const wordTranslateY = isActive ? interpolate(wordPop, [0, 1], [0, -6]) : 0;
 
-    // Clean minimalist color hierarchy
     let color = INACTIVE_WORD_COLOR;
     let opacity = 1;
 
     if (isActive) {
       color = ACTIVE_WORD_COLOR;
-      opacity = 1;
     } else if (isPast) {
       color = PAST_WORD_COLOR;
-      opacity = 0.92;
+      opacity = 0.8;
     } else {
       color = INACTIVE_WORD_COLOR;
       opacity = 0.8;
@@ -139,13 +117,12 @@ export const TikTokCaption: React.FC<{
       <span
         key={`${token.text}-${globalIndex}`}
         style={{
-          display: "inline-flex",
-          alignItems: "center",
-          justifyContent: "center",
+          display: "inline-block",
+          margin: "0 14px",
           transform: `scale(${wordScale}) translateY(${wordTranslateY}px)`,
           transformOrigin: "center bottom",
           fontFamily,
-          fontSize: 110,
+          fontSize: 96,
           fontWeight: 900,
           lineHeight: 1.35,
           color,
@@ -155,7 +132,6 @@ export const TikTokCaption: React.FC<{
           textShadow: isActive
             ? "0 0 24px rgba(253, 224, 71, 0.6), 0 4px 20px rgba(0, 0, 0, 0.95)"
             : "0 4px 20px rgba(0, 0, 0, 0.95)",
-          unicodeBidi: "isolate",
           transition: "color 0.1s ease, opacity 0.1s ease",
         }}
       >
@@ -178,21 +154,16 @@ export const TikTokCaption: React.FC<{
         style={{
           opacity: containerOpacity,
           transform: `translateY(${containerY}px)`,
-          maxWidth: 1900,
-          display: "flex",
-          flexWrap: "wrap",
-          justifyContent: "center",
-          alignItems: "center",
+          maxWidth: 960,
+          textAlign: "center",
           direction: "rtl",
-          padding: "16px 36px",
-          gap: "16px 32px",
-          // Minimalist: Clean, floating aesthetic without heavy bounding boxes
+          padding: "16px 24px",
           textShadow: "0 4px 24px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.9)",
+          lineHeight: 1.35,
         }}
       >
         {chunks.map((chunk, chunkIdx) => {
           if (chunk.isLatin) {
-            // Consecutive Latin/English words: MUST flow Left-to-Right
             return (
               <span
                 key={`latin-chunk-${chunkIdx}`}
@@ -201,7 +172,8 @@ export const TikTokCaption: React.FC<{
                   direction: "ltr",
                   flexDirection: "row",
                   alignItems: "center",
-                  gap: 32,
+                  gap: 20,
+                  margin: "0 14px",
                   unicodeBidi: "isolate",
                 }}
               >
@@ -212,7 +184,6 @@ export const TikTokCaption: React.FC<{
             );
           }
 
-          // Arabic / single token
           return chunk.tokens.map((token, i) =>
             renderWord(token, chunkIdx * 100 + i)
           );
