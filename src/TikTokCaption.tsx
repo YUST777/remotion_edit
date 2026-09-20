@@ -3,9 +3,9 @@ import { AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig } fr
 import { fontFamily } from "./load-font";
 
 // Belly Brand Palette
-const ACTIVE_WORD_COLOR = "#FB7600"; // belly darkorange (vibrant punchy orange)
-const INACTIVE_WORD_COLOR = "#F8F0E8"; // belly linen (warm crisp off-white)
-const PAST_WORD_COLOR = "#F0D8B8"; // belly bisque (soft warm cream)
+const ACTIVE_WORD_COLOR = "#FB7600"; // belly darkorange (vibrant punchy orange highlight)
+const INACTIVE_WORD_COLOR = "#FFFFFF"; // Pure crisp white default
+const PAST_WORD_COLOR = "#FFFFFF"; // Pure crisp white
 const STROKE_COLOR = "#2B221F"; // belly black (deep warm shadow stroke)
 
 interface WordToken {
