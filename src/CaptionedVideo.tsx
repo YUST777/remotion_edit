@@ -20,10 +20,13 @@ export const CaptionedVideo: React.FC = () => {
         pauseWhenBuffering
       />
 
-      {/* 2. Synced animated caption sequences only */}
+      {/* 2. Synced animated caption sequences only (strictly non-overlapping) */}
       {captions.map((caption, index) => {
+        const nextCaption = captions[index + 1];
         const from = Math.round((caption.startMs / 1000) * fps);
-        const to = Math.round((caption.endMs / 1000) * fps);
+        const naturalTo = Math.round((caption.endMs / 1000) * fps);
+        const nextFrom = nextCaption ? Math.round((nextCaption.startMs / 1000) * fps) : naturalTo;
+        const to = Math.min(naturalTo, nextFrom);
         const durationInFrames = Math.max(1, to - from);
 
         return (
