@@ -1,1835 +1,4059 @@
 [
   {
-    "startMs": 280,
-    "endMs": 1980,
-    "text": "هو ليه الشركات بتدور على الناس",
+    "startMs": 860,
+    "endMs": 3200,
+    "text": "يرضيك ده يا بشمهندس؟ إيه اللي مكدرك كده؟",
+    "speaker": "Speaker 0",
     "words": [
       {
-        "text": "هو",
-        "startMs": 280,
-        "endMs": 420
+        "text": "يرضيك",
+        "startMs": 860,
+        "endMs": 1160
       },
       {
-        "text": "ليه",
-        "startMs": 520,
-        "endMs": 630
+        "text": "ده",
+        "startMs": 1240,
+        "endMs": 1320
       },
       {
-        "text": "الشركات",
-        "startMs": 630,
-        "endMs": 1020
+        "text": "يا",
+        "startMs": 1320,
+        "endMs": 1320
       },
       {
-        "text": "بتدور",
-        "startMs": 1040,
-        "endMs": 1460
-      },
-      {
-        "text": "على",
-        "startMs": 1500,
-        "endMs": 1660
-      },
-      {
-        "text": "الناس",
-        "startMs": 1680,
-        "endMs": 1980
-      }
-    ]
-  },
-  {
-    "startMs": 2080,
-    "endMs": 4120,
-    "text": "اللي بتروح الـ ECPC؟",
-    "words": [
-      {
-        "text": "اللي",
-        "startMs": 2080,
-        "endMs": 2240
-      },
-      {
-        "text": "بتروح",
-        "startMs": 2280,
-        "endMs": 2720
-      },
-      {
-        "text": "الـ",
-        "startMs": 2740,
-        "endMs": 3070
-      },
-      {
-        "text": "ECPC؟",
-        "startMs": 3080,
-        "endMs": 4120
-      }
-    ]
-  },
-  {
-    "startMs": 4360,
-    "endMs": 6220,
-    "text": "لو ما تعرفش إيه هي مسابقة الـ ICPC:",
-    "words": [
-      {
-        "text": "لو",
-        "startMs": 4360,
-        "endMs": 4440
-      },
-      {
-        "text": "ما",
-        "startMs": 4460,
-        "endMs": 4600
-      },
-      {
-        "text": "تعرفش",
-        "startMs": 4610,
-        "endMs": 4860
+        "text": "بشمهندس؟",
+        "startMs": 1340,
+        "endMs": 1880
       },
       {
         "text": "إيه",
-        "startMs": 4880,
-        "endMs": 5120
+        "startMs": 2300,
+        "endMs": 2360
       },
       {
-        "text": "هي",
-        "startMs": 5130,
-        "endMs": 5200
+        "text": "اللي",
+        "startMs": 2380,
+        "endMs": 2440
       },
       {
-        "text": "مسابقة",
-        "startMs": 5210,
-        "endMs": 5260
+        "text": "مكدرك",
+        "startMs": 2480,
+        "endMs": 2900
       },
       {
-        "text": "الـ",
-        "startMs": 5260,
-        "endMs": 5350
-      },
-      {
-        "text": "ICPC:",
-        "startMs": 5360,
-        "endMs": 6220
+        "text": "كده؟",
+        "startMs": 2920,
+        "endMs": 3200
       }
     ]
   },
   {
-    "startMs": 6300,
-    "endMs": 8360,
-    "text": "هي مسابقة عالمية بتبدأ من:",
+    "startMs": 3220,
+    "endMs": 5360,
+    "text": "لسه مشتري course بلندر من منصة تعليمية،",
+    "speaker": "Speaker 0",
     "words": [
       {
-        "text": "هي",
-        "startMs": 6300,
-        "endMs": 6420
+        "text": "لسه",
+        "startMs": 3220,
+        "endMs": 3420
       },
       {
-        "text": "مسابقة",
-        "startMs": 6520,
-        "endMs": 6880
+        "text": "مشتري",
+        "startMs": 3460,
+        "endMs": 3760
       },
       {
-        "text": "عالمية",
-        "startMs": 6940,
-        "endMs": 7660
+        "text": "course",
+        "startMs": 3780,
+        "endMs": 4019
       },
       {
-        "text": "بتبدأ",
-        "startMs": 7720,
-        "endMs": 8180
+        "text": "بلندر",
+        "startMs": 4059,
+        "endMs": 4420
       },
       {
-        "text": "من:",
-        "startMs": 8220,
-        "endMs": 8360
+        "text": "من",
+        "startMs": 4440,
+        "endMs": 4500
+      },
+      {
+        "text": "منصة",
+        "startMs": 4520,
+        "endMs": 4820
+      },
+      {
+        "text": "تعليمية،",
+        "startMs": 4860,
+        "endMs": 5360
       }
     ]
   },
   {
-    "startMs": 8400,
-    "endMs": 10380,
-    "text": "الـ ECPC على مستوى مصر،",
-    "words": [
-      {
-        "text": "الـ",
-        "startMs": 8400,
-        "endMs": 8780
-      },
-      {
-        "text": "ECPC",
-        "startMs": 8790,
-        "endMs": 9300
-      },
-      {
-        "text": "على",
-        "startMs": 9500,
-        "endMs": 9580
-      },
-      {
-        "text": "مستوى",
-        "startMs": 9660,
-        "endMs": 9960
-      },
-      {
-        "text": "مصر،",
-        "startMs": 10000,
-        "endMs": 10380
-      }
-    ]
-  },
-  {
-    "startMs": 10420,
-    "endMs": 12720,
-    "text": "الـ ACPC على مستوى عرب وإفريقيا،",
-    "words": [
-      {
-        "text": "الـ",
-        "startMs": 10420,
-        "endMs": 10630
-      },
-      {
-        "text": "ACPC",
-        "startMs": 10700,
-        "endMs": 11540
-      },
-      {
-        "text": "على",
-        "startMs": 11580,
-        "endMs": 11720
-      },
-      {
-        "text": "مستوى",
-        "startMs": 11760,
-        "endMs": 12040
-      },
-      {
-        "text": "عرب",
-        "startMs": 12060,
-        "endMs": 12240
-      },
-      {
-        "text": "وإفريقيا،",
-        "startMs": 12280,
-        "endMs": 12720
-      }
-    ]
-  },
-  {
-    "startMs": 13180,
-    "endMs": 15360,
-    "text": "والـ ICPC على مستوى العالم!",
+    "startMs": 5600,
+    "endMs": 7800,
+    "text": "والـ instructor اللي بيشرح عمال يرغي كتير",
+    "speaker": "Speaker 0",
     "words": [
       {
         "text": "والـ",
-        "startMs": 13180,
-        "endMs": 13460
+        "startMs": 5600,
+        "endMs": 5740
       },
       {
-        "text": "ICPC",
-        "startMs": 13470,
-        "endMs": 14260
-      },
-      {
-        "text": "على",
-        "startMs": 14340,
-        "endMs": 14460
-      },
-      {
-        "text": "مستوى",
-        "startMs": 14500,
-        "endMs": 14760
-      },
-      {
-        "text": "العالم!",
-        "startMs": 14780,
-        "endMs": 15360
-      }
-    ]
-  },
-  {
-    "startMs": 15380,
-    "endMs": 17380,
-    "text": "يعني ممكن تلاقي الصين والهند والحتت دي!",
-    "words": [
-      {
-        "text": "يعني",
-        "startMs": 15380,
-        "endMs": 15530
-      },
-      {
-        "text": "ممكن",
-        "startMs": 15560,
-        "endMs": 15780
-      },
-      {
-        "text": "تلاقي",
-        "startMs": 15820,
-        "endMs": 16020
-      },
-      {
-        "text": "الصين",
-        "startMs": 16060,
-        "endMs": 16360
-      },
-      {
-        "text": "والهند",
-        "startMs": 16400,
-        "endMs": 16720
-      },
-      {
-        "text": "والحتت",
-        "startMs": 16840,
-        "endMs": 17140
-      },
-      {
-        "text": "دي!",
-        "startMs": 17260,
-        "endMs": 17380
-      }
-    ]
-  },
-  {
-    "startMs": 17680,
-    "endMs": 19500,
-    "text": "طيب إيه الحاجات اللي أنا محتاج أذاكرها؟",
-    "words": [
-      {
-        "text": "طيب",
-        "startMs": 17680,
-        "endMs": 18000
-      },
-      {
-        "text": "إيه",
-        "startMs": 18020,
-        "endMs": 18070
-      },
-      {
-        "text": "الحاجات",
-        "startMs": 18070,
-        "endMs": 18400
+        "text": "instructor",
+        "startMs": 5800,
+        "endMs": 6240
       },
       {
         "text": "اللي",
-        "startMs": 18420,
-        "endMs": 18490
+        "startMs": 6260,
+        "endMs": 6440
+      },
+      {
+        "text": "بيشرح",
+        "startMs": 6500,
+        "endMs": 6860
+      },
+      {
+        "text": "عمال",
+        "startMs": 6900,
+        "endMs": 7140
+      },
+      {
+        "text": "يرغي",
+        "startMs": 7180,
+        "endMs": 7440
+      },
+      {
+        "text": "كتير",
+        "startMs": 7480,
+        "endMs": 7800
+      }
+    ]
+  },
+  {
+    "startMs": 8280,
+    "endMs": 10780,
+    "text": "وعمال يعيد ويزيد في الكلام، وأنا عشان أفهم",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "وعمال",
+        "startMs": 8280,
+        "endMs": 8620
+      },
+      {
+        "text": "يعيد",
+        "startMs": 8680,
+        "endMs": 8860
+      },
+      {
+        "text": "ويزيد",
+        "startMs": 8900,
+        "endMs": 9140
+      },
+      {
+        "text": "في",
+        "startMs": 9200,
+        "endMs": 9260
+      },
+      {
+        "text": "الكلام،",
+        "startMs": 9320,
+        "endMs": 9660
+      },
+      {
+        "text": "وأنا",
+        "startMs": 10120,
+        "endMs": 10280
+      },
+      {
+        "text": "عشان",
+        "startMs": 10320,
+        "endMs": 10500
+      },
+      {
+        "text": "أفهم",
+        "startMs": 10540,
+        "endMs": 10780
+      }
+    ]
+  },
+  {
+    "startMs": 10840,
+    "endMs": 12620,
+    "text": "كلمة لازم أنا أعيد الفيديو تسعين مرة عشان",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "كلمة",
+        "startMs": 10840,
+        "endMs": 11060
+      },
+      {
+        "text": "لازم",
+        "startMs": 11100,
+        "endMs": 11280
       },
       {
         "text": "أنا",
-        "startMs": 18500,
-        "endMs": 18600
+        "startMs": 11300,
+        "endMs": 11380
       },
       {
-        "text": "محتاج",
-        "startMs": 18640,
-        "endMs": 18950
-      },
-      {
-        "text": "أذاكرها؟",
-        "startMs": 19020,
-        "endMs": 19500
-      }
-    ]
-  },
-  {
-    "startMs": 19730,
-    "endMs": 21900,
-    "text": "أو مثلًا إيه الأسئلة اللي ممكن أشوفها؟",
-    "words": [
-      {
-        "text": "أو",
-        "startMs": 19730,
-        "endMs": 19880
-      },
-      {
-        "text": "مثلًا",
-        "startMs": 19940,
-        "endMs": 20180
-      },
-      {
-        "text": "إيه",
-        "startMs": 20200,
-        "endMs": 20340
-      },
-      {
-        "text": "الأسئلة",
-        "startMs": 20350,
-        "endMs": 20660
-      },
-      {
-        "text": "اللي",
-        "startMs": 20670,
-        "endMs": 20700
-      },
-      {
-        "text": "ممكن",
-        "startMs": 20740,
-        "endMs": 20980
-      },
-      {
-        "text": "أشوفها",
-        "startMs": 20990,
-        "endMs": 21170
-      },
-      {
-        "text": "في",
-        "startMs": 21180,
-        "endMs": 21220
-      },
-      {
-        "text": "المسابقة",
-        "startMs": 21230,
-        "endMs": 21690
-      },
-      {
-        "text": "دي؟",
-        "startMs": 21740,
-        "endMs": 21900
-      }
-    ]
-  },
-  {
-    "startMs": 22480,
-    "endMs": 24720,
-    "text": "بكل بساطة بنتعلم عن Topic جديد:",
-    "words": [
-      {
-        "text": "بكل",
-        "startMs": 22480,
-        "endMs": 22680
-      },
-      {
-        "text": "بساطة",
-        "startMs": 22760,
-        "endMs": 23180
-      },
-      {
-        "text": "بنتعلم",
-        "startMs": 23260,
-        "endMs": 23700
-      },
-      {
-        "text": "عن",
-        "startMs": 23740,
-        "endMs": 23840
-      },
-      {
-        "text": "Topic",
-        "startMs": 23860,
-        "endMs": 24100
-      },
-      {
-        "text": "جديد",
-        "startMs": 24140,
-        "endMs": 24440
-      },
-      {
-        "text": "اسمه",
-        "startMs": 24460,
-        "endMs": 24720
-      }
-    ]
-  },
-  {
-    "startMs": 24730,
-    "endMs": 25620,
-    "text": "الـ Problem Solving..",
-    "words": [
-      {
-        "text": "الـ",
-        "startMs": 24730,
-        "endMs": 24850
-      },
-      {
-        "text": "Problem",
-        "startMs": 24860,
-        "endMs": 25180
-      },
-      {
-        "text": "Solving..",
-        "startMs": 25280,
-        "endMs": 25620
-      }
-    ]
-  },
-  {
-    "startMs": 25980,
-    "endMs": 28140,
-    "text": "والـ Problem Solving كمثال بسيط",
-    "words": [
-      {
-        "text": "والـ",
-        "startMs": 25980,
-        "endMs": 26110
-      },
-      {
-        "text": "Problem",
-        "startMs": 26120,
-        "endMs": 26400
-      },
-      {
-        "text": "Solving",
-        "startMs": 26500,
-        "endMs": 27280
-      },
-      {
-        "text": "كمثال",
-        "startMs": 27340,
-        "endMs": 27780
-      },
-      {
-        "text": "بسيط",
-        "startMs": 27860,
-        "endMs": 28140
-      }
-    ]
-  },
-  {
-    "startMs": 28180,
-    "endMs": 30760,
-    "text": "عشان يوصل لكم، هديكم سؤال إحنا",
-    "words": [
-      {
-        "text": "عشان",
-        "startMs": 28180,
-        "endMs": 28420
-      },
-      {
-        "text": "يوصل",
-        "startMs": 28460,
-        "endMs": 28780
-      },
-      {
-        "text": "لكم،",
-        "startMs": 28790,
-        "endMs": 29380
-      },
-      {
-        "text": "هديكم",
-        "startMs": 29420,
-        "endMs": 29920
-      },
-      {
-        "text": "سؤال",
-        "startMs": 29940,
-        "endMs": 30580
-      },
-      {
-        "text": "إحنا",
-        "startMs": 30590,
-        "endMs": 30760
-      }
-    ]
-  },
-  {
-    "startMs": 30800,
-    "endMs": 32720,
-    "text": "حليناه في المسابقة قبل 5 أيام،",
-    "words": [
-      {
-        "text": "حليناه",
-        "startMs": 30800,
-        "endMs": 31030
-      },
-      {
-        "text": "في",
-        "startMs": 31080,
-        "endMs": 31110
-      },
-      {
-        "text": "المسابقة",
-        "startMs": 31120,
-        "endMs": 31880
-      },
-      {
-        "text": "قبل",
-        "startMs": 31940,
-        "endMs": 32100
-      },
-      {
-        "text": "5",
-        "startMs": 32140,
-        "endMs": 32300
-      },
-      {
-        "text": "أيام،",
-        "startMs": 32310,
-        "endMs": 32720
-      }
-    ]
-  },
-  {
-    "startMs": 32780,
-    "endMs": 34540,
-    "text": "وده كان أسهل سؤال في المسابقة",
-    "words": [
-      {
-        "text": "وده",
-        "startMs": 32780,
-        "endMs": 32890
-      },
-      {
-        "text": "كان",
-        "startMs": 32960,
-        "endMs": 33100
-      },
-      {
-        "text": "أسهل",
-        "startMs": 33160,
-        "endMs": 33380
-      },
-      {
-        "text": "سؤال",
-        "startMs": 33460,
-        "endMs": 33700
-      },
-      {
-        "text": "في",
-        "startMs": 33710,
-        "endMs": 33750
-      },
-      {
-        "text": "المسابقة",
-        "startMs": 33750,
-        "endMs": 34540
-      }
-    ]
-  },
-  {
-    "startMs": 34600,
-    "endMs": 35720,
-    "text": "اسمه ماشا والدب!",
-    "words": [
-      {
-        "text": "اسمه",
-        "startMs": 34600,
-        "endMs": 34870
-      },
-      {
-        "text": "ماشا",
-        "startMs": 34960,
-        "endMs": 35260
-      },
-      {
-        "text": "والدب!",
-        "startMs": 35320,
-        "endMs": 35720
-      }
-    ]
-  },
-  {
-    "startMs": 35830,
-    "endMs": 38100,
-    "text": "بيقول لك إن ماشا بتحب تشتري شيكولاتة،",
-    "words": [
-      {
-        "text": "بيقول",
-        "startMs": 35830,
-        "endMs": 35920
-      },
-      {
-        "text": "لك",
-        "startMs": 35960,
-        "endMs": 36100
-      },
-      {
-        "text": "إن",
-        "startMs": 36140,
-        "endMs": 36220
-      },
-      {
-        "text": "ماشا",
-        "startMs": 36300,
-        "endMs": 36580
-      },
-      {
-        "text": "بتحب",
-        "startMs": 36640,
-        "endMs": 37030
-      },
-      {
-        "text": "تشتري",
-        "startMs": 37140,
-        "endMs": 37420
-      },
-      {
-        "text": "شيكولاتة،",
-        "startMs": 37480,
-        "endMs": 38100
-      }
-    ]
-  },
-  {
-    "startMs": 38110,
-    "endMs": 40120,
-    "text": "بس بتشتريها من محل غريب شويتين!",
-    "words": [
-      {
-        "text": "بس",
-        "startMs": 38110,
-        "endMs": 38400
-      },
-      {
-        "text": "بتشتريها",
-        "startMs": 38460,
-        "endMs": 38750
-      },
-      {
-        "text": "من",
-        "startMs": 38800,
-        "endMs": 38910
-      },
-      {
-        "text": "محل",
-        "startMs": 38960,
-        "endMs": 39280
-      },
-      {
-        "text": "غريب",
-        "startMs": 39340,
-        "endMs": 39560
-      },
-      {
-        "text": "شويتين!",
-        "startMs": 39580,
-        "endMs": 40120
-      }
-    ]
-  },
-  {
-    "startMs": 40580,
-    "endMs": 43360,
-    "text": "الفكرة بتاعته إن هو بيزود سعر المنتج",
-    "words": [
-      {
-        "text": "الفكرة",
-        "startMs": 40580,
-        "endMs": 40900
-      },
-      {
-        "text": "بتاعته",
-        "startMs": 40960,
-        "endMs": 41360
-      },
-      {
-        "text": "إن",
-        "startMs": 41420,
-        "endMs": 41560
-      },
-      {
-        "text": "هو",
-        "startMs": 41600,
-        "endMs": 41720
-      },
-      {
-        "text": "بيزود",
-        "startMs": 41780,
-        "endMs": 42260
-      },
-      {
-        "text": "سعر",
-        "startMs": 42300,
-        "endMs": 42520
-      },
-      {
-        "text": "المنتج",
-        "startMs": 42540,
-        "endMs": 43360
-      }
-    ]
-  },
-  {
-    "startMs": 43420,
-    "endMs": 44710,
-    "text": "كل يوم 10 جنيه..",
-    "words": [
-      {
-        "text": "كل",
-        "startMs": 43420,
-        "endMs": 43660
-      },
-      {
-        "text": "يوم",
-        "startMs": 43700,
-        "endMs": 44080
-      },
-      {
-        "text": "10",
-        "startMs": 44140,
-        "endMs": 44420
-      },
-      {
-        "text": "جنيه..",
-        "startMs": 44480,
-        "endMs": 44710
-      }
-    ]
-  },
-  {
-    "startMs": 44840,
-    "endMs": 45890,
-    "text": "يعني إنت لو اشتريت في اليوم الأول",
-    "words": [
-      {
-        "text": "يعني",
-        "startMs": 44840,
-        "endMs": 44990
-      },
-      {
-        "text": "إنت",
-        "startMs": 44990,
-        "endMs": 45060
-      },
-      {
-        "text": "لو",
-        "startMs": 45080,
-        "endMs": 45180
-      },
-      {
-        "text": "اشتريت",
-        "startMs": 45190,
-        "endMs": 45440
-      },
-      {
-        "text": "في",
-        "startMs": 45500,
-        "endMs": 45580
-      },
-      {
-        "text": "اليوم",
-        "startMs": 45590,
-        "endMs": 45740
-      },
-      {
-        "text": "الأول",
-        "startMs": 45780,
-        "endMs": 45890
-      }
-    ]
-  },
-  {
-    "startMs": 45920,
-    "endMs": 47080,
-    "text": "الشوكولاتة بجنيه،",
-    "words": [
-      {
-        "text": "الشوكولاتة",
-        "startMs": 45920,
-        "endMs": 46760
-      },
-      {
-        "text": "بجنيه،",
-        "startMs": 46780,
-        "endMs": 47080
-      }
-    ]
-  },
-  {
-    "startMs": 47380,
-    "endMs": 48910,
-    "text": "اليوم التاني هتبقى بـ 11 جنيه..",
-    "words": [
-      {
-        "text": "اليوم",
-        "startMs": 47380,
-        "endMs": 47620
-      },
-      {
-        "text": "التاني",
-        "startMs": 47660,
-        "endMs": 47940
-      },
-      {
-        "text": "هتبقى",
-        "startMs": 48000,
-        "endMs": 48190
-      },
-      {
-        "text": "بـ",
-        "startMs": 48240,
-        "endMs": 48250
-      },
-      {
-        "text": "11",
-        "startMs": 48260,
-        "endMs": 48680
-      },
-      {
-        "text": "جنيه..",
-        "startMs": 48720,
-        "endMs": 48910
-      }
-    ]
-  },
-  {
-    "startMs": 49320,
-    "endMs": 51040,
-    "text": "هيقول لك بكل بساطة: اعمل لي دي كود،",
-    "words": [
-      {
-        "text": "هيقول",
-        "startMs": 49320,
-        "endMs": 49460
-      },
-      {
-        "text": "لك",
-        "startMs": 49470,
-        "endMs": 49580
-      },
-      {
-        "text": "بكل",
-        "startMs": 49600,
-        "endMs": 49860
-      },
-      {
-        "text": "بساطة:",
-        "startMs": 49880,
-        "endMs": 50220
-      },
-      {
-        "text": "اعمل",
-        "startMs": 50240,
-        "endMs": 50480
-      },
-      {
-        "text": "لي",
-        "startMs": 50490,
-        "endMs": 50600
-      },
-      {
-        "text": "دي",
-        "startMs": 50620,
-        "endMs": 50740
-      },
-      {
-        "text": "كود،",
-        "startMs": 50800,
-        "endMs": 51040
-      }
-    ]
-  },
-  {
-    "startMs": 51120,
-    "endMs": 53480,
-    "text": "أياً كان بـ C++, Python, Java..",
-    "words": [
-      {
-        "text": "أياً",
-        "startMs": 51120,
-        "endMs": 51300
-      },
-      {
-        "text": "كان",
-        "startMs": 51310,
-        "endMs": 51520
-      },
-      {
-        "text": "بـ",
-        "startMs": 51540,
-        "endMs": 51610
-      },
-      {
-        "text": "C++,",
-        "startMs": 51640,
-        "endMs": 52500
-      },
-      {
-        "text": "Python,",
-        "startMs": 52520,
-        "endMs": 52930
-      },
-      {
-        "text": "Java..",
-        "startMs": 53200,
-        "endMs": 53480
-      }
-    ]
-  },
-  {
-    "startMs": 53660,
-    "endMs": 55080,
-    "text": "المهم إن إنت تعمل لها كود!",
-    "words": [
-      {
-        "text": "المهم",
-        "startMs": 53660,
-        "endMs": 53880
-      },
-      {
-        "text": "إن",
-        "startMs": 53900,
-        "endMs": 53990
-      },
-      {
-        "text": "إنت",
-        "startMs": 53990,
-        "endMs": 54040
-      },
-      {
-        "text": "تعمل",
-        "startMs": 54120,
-        "endMs": 54380
-      },
-      {
-        "text": "لها",
-        "startMs": 54390,
-        "endMs": 54460
-      },
-      {
-        "text": "كود!",
-        "startMs": 54660,
-        "endMs": 55080
-      }
-    ]
-  },
-  {
-    "startMs": 55120,
-    "endMs": 57140,
-    "text": "دي بكل بساطة هي الـ Problem Solving..",
-    "words": [
-      {
-        "text": "دي",
-        "startMs": 55120,
-        "endMs": 55220
-      },
-      {
-        "text": "بكل",
-        "startMs": 55240,
-        "endMs": 55440
-      },
-      {
-        "text": "بساطة",
-        "startMs": 55540,
-        "endMs": 55920
-      },
-      {
-        "text": "هي",
-        "startMs": 55930,
-        "endMs": 56060
-      },
-      {
-        "text": "الـ",
-        "startMs": 56100,
-        "endMs": 56230
-      },
-      {
-        "text": "Problem",
-        "startMs": 56240,
-        "endMs": 56620
-      },
-      {
-        "text": "Solving..",
-        "startMs": 56740,
-        "endMs": 57140
-      }
-    ]
-  },
-  {
-    "startMs": 57520,
-    "endMs": 59380,
-    "text": "ولو ما تعرفش، في Community عندنا",
-    "words": [
-      {
-        "text": "ولو",
-        "startMs": 57520,
-        "endMs": 57720
-      },
-      {
-        "text": "ما",
-        "startMs": 57760,
-        "endMs": 57950
-      },
-      {
-        "text": "تعرفش،",
-        "startMs": 57960,
-        "endMs": 58180
-      },
-      {
-        "text": "في",
-        "startMs": 58300,
-        "endMs": 58420
-      },
-      {
-        "text": "Community",
-        "startMs": 58460,
-        "endMs": 58920
-      },
-      {
-        "text": "عندنا",
-        "startMs": 59000,
-        "endMs": 59380
-      }
-    ]
-  },
-  {
-    "startMs": 59480,
-    "endMs": 62000,
-    "text": "في جامعة حورس للـ Problem Solving",
-    "words": [
-      {
-        "text": "في",
-        "startMs": 59480,
-        "endMs": 59560
-      },
-      {
-        "text": "جامعة",
-        "startMs": 59640,
-        "endMs": 59980
-      },
-      {
-        "text": "حورس",
-        "startMs": 60040,
-        "endMs": 60680
-      },
-      {
-        "text": "للـ",
-        "startMs": 60740,
-        "endMs": 60980
-      },
-      {
-        "text": "Problem",
-        "startMs": 61000,
-        "endMs": 61280
-      },
-      {
-        "text": "Solving",
-        "startMs": 61400,
-        "endMs": 62000
-      }
-    ]
-  },
-  {
-    "startMs": 62040,
-    "endMs": 63980,
-    "text": "والـ ICPC، وهو اسمه:",
-    "words": [
-      {
-        "text": "والـ",
-        "startMs": 62040,
-        "endMs": 62400
-      },
-      {
-        "text": "ICPC،",
-        "startMs": 62410,
-        "endMs": 63260
-      },
-      {
-        "text": "وهو",
-        "startMs": 63280,
-        "endMs": 63440
-      },
-      {
-        "text": "اسمه:",
-        "startMs": 63560,
-        "endMs": 63980
-      }
-    ]
-  },
-  {
-    "startMs": 64060,
-    "endMs": 65360,
-    "text": "ICPC HUE",
-    "words": [
-      {
-        "text": "ICPC",
-        "startMs": 64060,
-        "endMs": 64920
-      },
-      {
-        "text": "HUE",
-        "startMs": 65020,
-        "endMs": 65360
-      }
-    ]
-  },
-  {
-    "startMs": 66140,
-    "endMs": 67920,
-    "text": "الـ Community متأسس من 8 شهور..",
-    "words": [
-      {
-        "text": "الـ",
-        "startMs": 66140,
-        "endMs": 66250
-      },
-      {
-        "text": "Community",
-        "startMs": 66260,
-        "endMs": 66620
-      },
-      {
-        "text": "متأسس",
-        "startMs": 66660,
-        "endMs": 67180
-      },
-      {
-        "text": "من",
-        "startMs": 67220,
-        "endMs": 67340
-      },
-      {
-        "text": "8",
-        "startMs": 67350,
-        "endMs": 67600
-      },
-      {
-        "text": "شهور..",
-        "startMs": 67620,
-        "endMs": 67920
-      }
-    ]
-  },
-  {
-    "startMs": 68300,
-    "endMs": 70440,
-    "text": "عرفنا إن إحنا نطلع 16 فريق",
-    "words": [
-      {
-        "text": "عرفنا",
-        "startMs": 68300,
-        "endMs": 68590
-      },
-      {
-        "text": "إن",
-        "startMs": 68660,
-        "endMs": 68740
-      },
-      {
-        "text": "إحنا",
-        "startMs": 68750,
-        "endMs": 68920
-      },
-      {
-        "text": "نطلع",
-        "startMs": 68940,
-        "endMs": 69360
-      },
-      {
-        "text": "16",
-        "startMs": 69380,
-        "endMs": 70020
-      },
-      {
-        "text": "فريق",
-        "startMs": 70080,
-        "endMs": 70440
-      }
-    ]
-  },
-  {
-    "startMs": 70500,
-    "endMs": 72780,
-    "text": "للمسابقة اللي كانت قبل 5 أيام",
-    "words": [
-      {
-        "text": "للمسابقة",
-        "startMs": 70500,
-        "endMs": 71260
-      },
-      {
-        "text": "اللي",
-        "startMs": 71300,
-        "endMs": 71420
-      },
-      {
-        "text": "كانت",
-        "startMs": 71460,
-        "endMs": 71660
-      },
-      {
-        "text": "قبل",
-        "startMs": 71700,
-        "endMs": 71860
-      },
-      {
-        "text": "5",
-        "startMs": 71880,
-        "endMs": 72140
-      },
-      {
-        "text": "أيام",
-        "startMs": 72180,
-        "endMs": 72780
-      }
-    ]
-  },
-  {
-    "startMs": 72840,
-    "endMs": 76540,
-    "text": "من كل كليات حورس! والتسجيل مفتوح حاليًا..",
-    "words": [
-      {
-        "text": "من",
-        "startMs": 72840,
-        "endMs": 73020
-      },
-      {
-        "text": "كل",
-        "startMs": 73060,
-        "endMs": 73280
-      },
-      {
-        "text": "كليات",
-        "startMs": 73340,
-        "endMs": 73880
-      },
-      {
-        "text": "حورس!",
-        "startMs": 73940,
-        "endMs": 74780
-      },
-      {
-        "text": "والتسجيل",
-        "startMs": 74800,
-        "endMs": 75740
-      },
-      {
-        "text": "مفتوح",
-        "startMs": 75760,
-        "endMs": 76080
-      },
-      {
-        "text": "حاليًا..",
-        "startMs": 76100,
-        "endMs": 76540
-      }
-    ]
-  },
-  {
-    "startMs": 76820,
-    "endMs": 78660,
-    "text": "تعرف تسجل حتى لو معندكش أي خبرة",
-    "words": [
-      {
-        "text": "تعرف",
-        "startMs": 76820,
-        "endMs": 76990
-      },
-      {
-        "text": "تسجل",
-        "startMs": 77040,
-        "endMs": 77440
-      },
-      {
-        "text": "حتى",
-        "startMs": 77480,
-        "endMs": 77680
-      },
-      {
-        "text": "لو",
-        "startMs": 77720,
-        "endMs": 77760
-      },
-      {
-        "text": "معندكش",
-        "startMs": 77820,
-        "endMs": 78160
-      },
-      {
-        "text": "أي",
-        "startMs": 78220,
-        "endMs": 78360
-      },
-      {
-        "text": "خبرة",
-        "startMs": 78440,
-        "endMs": 78660
-      }
-    ]
-  },
-  {
-    "startMs": 78720,
-    "endMs": 81580,
-    "text": "في البرمجة من أي كلية في حورس!",
-    "words": [
-      {
-        "text": "في",
-        "startMs": 78720,
-        "endMs": 78780
-      },
-      {
-        "text": "البرمجة",
-        "startMs": 78800,
-        "endMs": 79600
-      },
-      {
-        "text": "من",
-        "startMs": 79640,
-        "endMs": 79820
-      },
-      {
-        "text": "أي",
-        "startMs": 79880,
-        "endMs": 80100
-      },
-      {
-        "text": "كلية",
-        "startMs": 80140,
-        "endMs": 80660
-      },
-      {
-        "text": "في",
-        "startMs": 80720,
-        "endMs": 81050
-      },
-      {
-        "text": "حورس!",
-        "startMs": 81120,
-        "endMs": 81580
-      }
-    ]
-  },
-  {
-    "startMs": 81780,
-    "endMs": 83820,
-    "text": "نرجع بقى لسؤالنا اللي كان في أول الفيديو:",
-    "words": [
-      {
-        "text": "نرجع",
-        "startMs": 81780,
-        "endMs": 82040
-      },
-      {
-        "text": "بقى",
-        "startMs": 82060,
-        "endMs": 82160
-      },
-      {
-        "text": "لسؤالنا",
-        "startMs": 82220,
-        "endMs": 82580
-      },
-      {
-        "text": "اللي",
-        "startMs": 82620,
-        "endMs": 82700
-      },
-      {
-        "text": "كان",
-        "startMs": 82760,
-        "endMs": 82840
-      },
-      {
-        "text": "في",
-        "startMs": 82940,
-        "endMs": 83010
-      },
-      {
-        "text": "أول",
-        "startMs": 83010,
-        "endMs": 83180
-      },
-      {
-        "text": "الفيديو:",
-        "startMs": 83200,
-        "endMs": 83820
-      }
-    ]
-  },
-  {
-    "startMs": 83840,
-    "endMs": 85080,
-    "text": "ليه الشركات بتجري ورا الناس",
-    "words": [
-      {
-        "text": "ليه",
-        "startMs": 83840,
-        "endMs": 83910
-      },
-      {
-        "text": "الشركات",
-        "startMs": 83910,
-        "endMs": 84260
-      },
-      {
-        "text": "بتجري",
-        "startMs": 84300,
-        "endMs": 84660
-      },
-      {
-        "text": "ورا",
-        "startMs": 84680,
-        "endMs": 84840
-      },
-      {
-        "text": "الناس",
-        "startMs": 84850,
-        "endMs": 85080
-      }
-    ]
-  },
-  {
-    "startMs": 85120,
-    "endMs": 87160,
-    "text": "اللي بتروح المسابقة دي أو بتتأهل ليها؟",
-    "words": [
-      {
-        "text": "اللي",
-        "startMs": 85120,
-        "endMs": 85170
-      },
-      {
-        "text": "بتروح",
-        "startMs": 85240,
-        "endMs": 85460
-      },
-      {
-        "text": "المسابقة",
-        "startMs": 85480,
-        "endMs": 85920
-      },
-      {
-        "text": "دي",
-        "startMs": 85930,
-        "endMs": 85980
-      },
-      {
-        "text": "أو",
-        "startMs": 86000,
-        "endMs": 86080
-      },
-      {
-        "text": "بتتأهل",
-        "startMs": 86100,
-        "endMs": 86560
-      },
-      {
-        "text": "ليها؟",
-        "startMs": 86570,
-        "endMs": 87160
-      }
-    ]
-  },
-  {
-    "startMs": 87640,
-    "endMs": 89680,
-    "text": "بكل بساطة إن أصل الإنترفيو بتاعك",
-    "words": [
-      {
-        "text": "بكل",
-        "startMs": 87640,
-        "endMs": 87880
-      },
-      {
-        "text": "بساطة",
-        "startMs": 87900,
-        "endMs": 88260
-      },
-      {
-        "text": "إن",
-        "startMs": 88280,
-        "endMs": 88440
-      },
-      {
-        "text": "أصل",
-        "startMs": 88460,
-        "endMs": 88700
-      },
-      {
-        "text": "الإنترفيو",
-        "startMs": 88710,
-        "endMs": 89200
-      },
-      {
-        "text": "بتاعك",
-        "startMs": 89240,
-        "endMs": 89680
-      }
-    ]
-  },
-  {
-    "startMs": 89700,
-    "endMs": 90700,
-    "text": "بيكون Problem Solving!",
-    "words": [
-      {
-        "text": "بيكون",
-        "startMs": 89700,
-        "endMs": 90000
-      },
-      {
-        "text": "Problem",
-        "startMs": 90060,
-        "endMs": 90320
-      },
-      {
-        "text": "Solving!",
-        "startMs": 90400,
-        "endMs": 90700
-      }
-    ]
-  },
-  {
-    "startMs": 90980,
-    "endMs": 93080,
-    "text": "هو يعرف منين إن إنت بتعرف تكود",
-    "words": [
-      {
-        "text": "هو",
-        "startMs": 90980,
-        "endMs": 91120
-      },
-      {
-        "text": "يعرف",
-        "startMs": 91240,
-        "endMs": 91540
-      },
-      {
-        "text": "منين",
-        "startMs": 91580,
-        "endMs": 91920
-      },
-      {
-        "text": "إن",
-        "startMs": 91960,
-        "endMs": 92060
-      },
-      {
-        "text": "إنت",
-        "startMs": 92100,
-        "endMs": 92200
-      },
-      {
-        "text": "بتعرف",
-        "startMs": 92280,
-        "endMs": 92520
-      },
-      {
-        "text": "تكود",
-        "startMs": 92560,
-        "endMs": 93080
-      }
-    ]
-  },
-  {
-    "startMs": 93130,
-    "endMs": 95160,
-    "text": "أو مهارات حل المشاكل بتاعتك كويسة؟",
-    "words": [
-      {
-        "text": "أو",
-        "startMs": 93130,
-        "endMs": 93180
-      },
-      {
-        "text": "مهارات",
-        "startMs": 93220,
-        "endMs": 93460
-      },
-      {
-        "text": "حل",
-        "startMs": 93540,
-        "endMs": 93680
-      },
-      {
-        "text": "المشاكل",
-        "startMs": 93690,
-        "endMs": 94080
-      },
-      {
-        "text": "بتاعتك",
-        "startMs": 94120,
-        "endMs": 94460
-      },
-      {
-        "text": "كويسة؟",
-        "startMs": 94500,
-        "endMs": 95160
-      }
-    ]
-  },
-  {
-    "startMs": 95180,
-    "endMs": 97340,
-    "text": "وأسيبكم مع باقي الفيديو من أول الرحلة",
-    "words": [
-      {
-        "text": "وأسيبكم",
-        "startMs": 95180,
-        "endMs": 95700
-      },
-      {
-        "text": "مع",
-        "startMs": 95710,
-        "endMs": 95750
-      },
-      {
-        "text": "باقي",
-        "startMs": 95800,
-        "endMs": 95940
+        "text": "أعيد",
+        "startMs": 11420,
+        "endMs": 11580
       },
       {
         "text": "الفيديو",
-        "startMs": 95980,
-        "endMs": 96480
+        "startMs": 11600,
+        "endMs": 11860
       },
       {
-        "text": "من",
-        "startMs": 96540,
-        "endMs": 96660
+        "text": "تسعين",
+        "startMs": 11920,
+        "endMs": 12180
       },
       {
-        "text": "أول",
-        "startMs": 96680,
-        "endMs": 96920
+        "text": "مرة",
+        "startMs": 12220,
+        "endMs": 12380
       },
       {
-        "text": "الرحلة",
-        "startMs": 96940,
-        "endMs": 97340
+        "text": "عشان",
+        "startMs": 12420,
+        "endMs": 12620
       }
     ]
   },
   {
-    "startMs": 97360,
-    "endMs": 100000,
-    "text": "من عند حورس إلى نهاية الرحلة",
+    "startMs": 12640,
+    "endMs": 13860,
+    "text": "أوصل للمعلومة.",
+    "speaker": "Speaker 0",
     "words": [
       {
-        "text": "من",
-        "startMs": 97360,
-        "endMs": 97540
+        "text": "أوصل",
+        "startMs": 12640,
+        "endMs": 12860
       },
       {
-        "text": "عند",
-        "startMs": 97580,
-        "endMs": 97820
-      },
-      {
-        "text": "حورس",
-        "startMs": 97860,
-        "endMs": 98580
-      },
-      {
-        "text": "إلى",
-        "startMs": 98640,
-        "endMs": 98800
-      },
-      {
-        "text": "نهاية",
-        "startMs": 98900,
-        "endMs": 99220
-      },
-      {
-        "text": "الرحلة",
-        "startMs": 99240,
-        "endMs": 100000
+        "text": "للمعلومة.",
+        "startMs": 12880,
+        "endMs": 13860
       }
     ]
   },
   {
-    "startMs": 100040,
-    "endMs": 101120,
-    "text": "ورجوعنا إلى دمياط.",
+    "startMs": 13860,
+    "endMs": 15420,
+    "text": "طب لو قلت لك أصلًا إن أنا دلوقتي معايا",
+    "speaker": "Speaker 1",
     "words": [
       {
-        "text": "ورجوعنا",
-        "startMs": 100040,
-        "endMs": 100410
+        "text": "طب",
+        "startMs": 13860,
+        "endMs": 13980
       },
       {
-        "text": "إلى",
-        "startMs": 100420,
-        "endMs": 100560
+        "text": "لو",
+        "startMs": 14020,
+        "endMs": 14140
       },
       {
-        "text": "دمياط.",
-        "startMs": 100620,
-        "endMs": 101120
-      }
-    ]
-  },
-  {
-    "startMs": 108520,
-    "endMs": 111860,
-    "text": "فكرة.. الإنجاز محتاج فكرة!",
-    "words": [
-      {
-        "text": "فكرة..",
-        "startMs": 108520,
-        "endMs": 109500
+        "text": "قلت",
+        "startMs": 14160,
+        "endMs": 14220
       },
       {
-        "text": "الإنجاز",
-        "startMs": 109520,
-        "endMs": 110460
+        "text": "لك",
+        "startMs": 14260,
+        "endMs": 14360
       },
       {
-        "text": "محتاج",
-        "startMs": 110560,
-        "endMs": 111180
+        "text": "أصلًا",
+        "startMs": 14420,
+        "endMs": 14640
       },
       {
-        "text": "فكرة!",
-        "startMs": 111200,
-        "endMs": 111860
-      }
-    ]
-  },
-  {
-    "startMs": 112200,
-    "endMs": 115480,
-    "text": "ما تقولش أنا هبدأ بكرة.. حلمك",
-    "words": [
-      {
-        "text": "ما",
-        "startMs": 112200,
-        "endMs": 112340
-      },
-      {
-        "text": "تقولش",
-        "startMs": 112420,
-        "endMs": 112870
+        "text": "إن",
+        "startMs": 14700,
+        "endMs": 14780
       },
       {
         "text": "أنا",
-        "startMs": 113020,
-        "endMs": 113180
+        "startMs": 14820,
+        "endMs": 14860
       },
       {
-        "text": "هبدأ",
-        "startMs": 113280,
-        "endMs": 114130
+        "text": "دلوقتي",
+        "startMs": 14880,
+        "endMs": 15180
       },
       {
-        "text": "بكرة..",
-        "startMs": 114180,
-        "endMs": 114520
-      },
-      {
-        "text": "حلمك",
-        "startMs": 114860,
-        "endMs": 115480
+        "text": "معايا",
+        "startMs": 15200,
+        "endMs": 15420
       }
     ]
   },
   {
-    "startMs": 115540,
-    "endMs": 117520,
-    "text": "ما بيستناش!",
+    "startMs": 15460,
+    "endMs": 17480,
+    "text": "AI agent بشوف كل حاجة على الشاشة بتاعتك،",
+    "speaker": "Speaker 1",
     "words": [
+      {
+        "text": "AI",
+        "startMs": 15460,
+        "endMs": 15600
+      },
+      {
+        "text": "agent",
+        "startMs": 15680,
+        "endMs": 16040
+      },
+      {
+        "text": "بشوف",
+        "startMs": 16440,
+        "endMs": 16660
+      },
+      {
+        "text": "كل",
+        "startMs": 16700,
+        "endMs": 16860
+      },
+      {
+        "text": "حاجة",
+        "startMs": 16900,
+        "endMs": 17040
+      },
+      {
+        "text": "على",
+        "startMs": 17040,
+        "endMs": 17040
+      },
+      {
+        "text": "الشاشة",
+        "startMs": 17040,
+        "endMs": 17300
+      },
+      {
+        "text": "بتاعتك،",
+        "startMs": 17320,
+        "endMs": 17480
+      }
+    ]
+  },
+  {
+    "startMs": 18000,
+    "endMs": 19540,
+    "text": "بيتحكم في كل حاجة على الشاشة بتاعتك، بيقول",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بيتحكم",
+        "startMs": 18000,
+        "endMs": 18540
+      },
+      {
+        "text": "في",
+        "startMs": 18560,
+        "endMs": 18580
+      },
+      {
+        "text": "كل",
+        "startMs": 18580,
+        "endMs": 18740
+      },
+      {
+        "text": "حاجة",
+        "startMs": 18760,
+        "endMs": 18840
+      },
+      {
+        "text": "على",
+        "startMs": 18840,
+        "endMs": 18900
+      },
+      {
+        "text": "الشاشة",
+        "startMs": 18900,
+        "endMs": 19060
+      },
+      {
+        "text": "بتاعتك،",
+        "startMs": 19120,
+        "endMs": 19320
+      },
+      {
+        "text": "بيقول",
+        "startMs": 19380,
+        "endMs": 19540
+      }
+    ]
+  },
+  {
+    "startMs": 19560,
+    "endMs": 21360,
+    "text": "لك اضغط فين، اللي إنت ضاغط عليه ده أصلًا",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "لك",
+        "startMs": 19560,
+        "endMs": 19640
+      },
+      {
+        "text": "اضغط",
+        "startMs": 19640,
+        "endMs": 19920
+      },
+      {
+        "text": "فين،",
+        "startMs": 19960,
+        "endMs": 20120
+      },
+      {
+        "text": "اللي",
+        "startMs": 20320,
+        "endMs": 20420
+      },
+      {
+        "text": "إنت",
+        "startMs": 20440,
+        "endMs": 20560
+      },
+      {
+        "text": "ضاغط",
+        "startMs": 20580,
+        "endMs": 20720
+      },
+      {
+        "text": "عليه",
+        "startMs": 20760,
+        "endMs": 20900
+      },
+      {
+        "text": "ده",
+        "startMs": 20940,
+        "endMs": 21000
+      },
+      {
+        "text": "أصلًا",
+        "startMs": 21020,
+        "endMs": 21360
+      }
+    ]
+  },
+  {
+    "startMs": 21380,
+    "endMs": 22460,
+    "text": "بيعلمك إيه أو بيعمل إيه",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بيعلمك",
+        "startMs": 21380,
+        "endMs": 21780
+      },
+      {
+        "text": "إيه",
+        "startMs": 21800,
+        "endMs": 21880
+      },
+      {
+        "text": "أو",
+        "startMs": 21940,
+        "endMs": 22020
+      },
+      {
+        "text": "بيعمل",
+        "startMs": 22060,
+        "endMs": 22320
+      },
+      {
+        "text": "إيه",
+        "startMs": 22360,
+        "endMs": 22460
+      }
+    ]
+  },
+  {
+    "startMs": 23100,
+    "endMs": 25440,
+    "text": "بالـ details، وبيعيد ويزيد معاك إن شاء",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بالـ",
+        "startMs": 23100,
+        "endMs": 23220
+      },
+      {
+        "text": "details،",
+        "startMs": 23260,
+        "endMs": 23640
+      },
+      {
+        "text": "وبيعيد",
+        "startMs": 23760,
+        "endMs": 24240
+      },
+      {
+        "text": "ويزيد",
+        "startMs": 24280,
+        "endMs": 24540
+      },
+      {
+        "text": "معاك",
+        "startMs": 24580,
+        "endMs": 24880
+      },
+      {
+        "text": "إن",
+        "startMs": 25160,
+        "endMs": 25300
+      },
+      {
+        "text": "شاء",
+        "startMs": 25360,
+        "endMs": 25440
+      }
+    ]
+  },
+  {
+    "startMs": 25460,
+    "endMs": 26780,
+    "text": "الله لحد ساعة حداشر الليل.",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "الله",
+        "startMs": 25460,
+        "endMs": 25560
+      },
+      {
+        "text": "لحد",
+        "startMs": 25580,
+        "endMs": 25780
+      },
+      {
+        "text": "ساعة",
+        "startMs": 25820,
+        "endMs": 25940
+      },
+      {
+        "text": "حداشر",
+        "startMs": 25940,
+        "endMs": 26120
+      },
+      {
+        "text": "الليل.",
+        "startMs": 26160,
+        "endMs": 26780
+      }
+    ]
+  },
+  {
+    "startMs": 26800,
+    "endMs": 28180,
+    "text": "أوف، أنا ألاقي فين الكلام ده كله؟",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "أوف،",
+        "startMs": 26800,
+        "endMs": 27020
+      },
+      {
+        "text": "أنا",
+        "startMs": 27100,
+        "endMs": 27280
+      },
+      {
+        "text": "ألاقي",
+        "startMs": 27300,
+        "endMs": 27440
+      },
+      {
+        "text": "فين",
+        "startMs": 27480,
+        "endMs": 27560
+      },
+      {
+        "text": "الكلام",
+        "startMs": 27580,
+        "endMs": 27840
+      },
+      {
+        "text": "ده",
+        "startMs": 27880,
+        "endMs": 27960
+      },
+      {
+        "text": "كله؟",
+        "startMs": 28000,
+        "endMs": 28180
+      }
+    ]
+  },
+  {
+    "startMs": 29000,
+    "endMs": 29640,
+    "text": "تلاقيه عند بطة.",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "تلاقيه",
+        "startMs": 29000,
+        "endMs": 29200
+      },
+      {
+        "text": "عند",
+        "startMs": 29240,
+        "endMs": 29400
+      },
+      {
+        "text": "بطة.",
+        "startMs": 29420,
+        "endMs": 29640
+      }
+    ]
+  },
+  {
+    "startMs": 30760,
+    "endMs": 31380,
+    "text": "طب هي إيه بطة؟",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "طب",
+        "startMs": 30760,
+        "endMs": 30860
+      },
+      {
+        "text": "هي",
+        "startMs": 30880,
+        "endMs": 31000
+      },
+      {
+        "text": "إيه",
+        "startMs": 31020,
+        "endMs": 31100
+      },
+      {
+        "text": "بطة؟",
+        "startMs": 31140,
+        "endMs": 31380
+      }
+    ]
+  },
+  {
+    "startMs": 32720,
+    "endMs": 34760,
+    "text": "بشمهندس يوسف مطول برة، فأنا هكلمكم أنا",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بشمهندس",
+        "startMs": 32720,
+        "endMs": 33020
+      },
+      {
+        "text": "يوسف",
+        "startMs": 33060,
+        "endMs": 33220
+      },
+      {
+        "text": "مطول",
+        "startMs": 33240,
+        "endMs": 33480
+      },
+      {
+        "text": "برة،",
+        "startMs": 33520,
+        "endMs": 33700
+      },
+      {
+        "text": "فأنا",
+        "startMs": 34140,
+        "endMs": 34320
+      },
+      {
+        "text": "هكلمكم",
+        "startMs": 34360,
+        "endMs": 34700
+      },
+      {
+        "text": "أنا",
+        "startMs": 34720,
+        "endMs": 34760
+      }
+    ]
+  },
+  {
+    "startMs": 34800,
+    "endMs": 36580,
+    "text": "دلوقتي عن بطة. بطة مش بس",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "دلوقتي",
+        "startMs": 34800,
+        "endMs": 35180
+      },
+      {
+        "text": "عن",
+        "startMs": 35220,
+        "endMs": 35320
+      },
+      {
+        "text": "بطة.",
+        "startMs": 35340,
+        "endMs": 35580
+      },
+      {
+        "text": "بطة",
+        "startMs": 35940,
+        "endMs": 36180
+      },
+      {
+        "text": "مش",
+        "startMs": 36220,
+        "endMs": 36360
+      },
+      {
+        "text": "بس",
+        "startMs": 36380,
+        "endMs": 36580
+      }
+    ]
+  },
+  {
+    "startMs": 36600,
+    "endMs": 39000,
+    "text": "desktop application، بل بطة ليها website وليها",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "desktop",
+        "startMs": 36600,
+        "endMs": 36820
+      },
+      {
+        "text": "application،",
+        "startMs": 36860,
+        "endMs": 37220
+      },
+      {
+        "text": "بل",
+        "startMs": 37260,
+        "endMs": 37340
+      },
+      {
+        "text": "بطة",
+        "startMs": 37380,
+        "endMs": 37600
+      },
+      {
+        "text": "ليها",
+        "startMs": 37640,
+        "endMs": 37860
+      },
+      {
+        "text": "website",
+        "startMs": 38400,
+        "endMs": 38800
+      },
+      {
+        "text": "وليها",
+        "startMs": 38820,
+        "endMs": 39000
+      }
+    ]
+  },
+  {
+    "startMs": 39040,
+    "endMs": 40420,
+    "text": "mobile application برضه. الـ",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "mobile",
+        "startMs": 39040,
+        "endMs": 39260
+      },
+      {
+        "text": "application",
+        "startMs": 39280,
+        "endMs": 39660
+      },
+      {
+        "text": "برضه.",
+        "startMs": 39700,
+        "endMs": 39940
+      },
+      {
+        "text": "الـ",
+        "startMs": 40260,
+        "endMs": 40420
+      }
+    ]
+  },
+  {
+    "startMs": 40460,
+    "endMs": 42360,
+    "text": "desktop application لما يتحمل يبقى عندك بطة موجودة",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "desktop",
+        "startMs": 40460,
+        "endMs": 40720
+      },
+      {
+        "text": "application",
+        "startMs": 40740,
+        "endMs": 41020
+      },
+      {
+        "text": "لما",
+        "startMs": 41040,
+        "endMs": 41220
+      },
+      {
+        "text": "يتحمل",
+        "startMs": 41240,
+        "endMs": 41580
+      },
+      {
+        "text": "يبقى",
+        "startMs": 41600,
+        "endMs": 41680
+      },
+      {
+        "text": "عندك",
+        "startMs": 41720,
+        "endMs": 41900
+      },
+      {
+        "text": "بطة",
+        "startMs": 41940,
+        "endMs": 42120
+      },
+      {
+        "text": "موجودة",
+        "startMs": 42160,
+        "endMs": 42360
+      }
+    ]
+  },
+  {
+    "startMs": 42380,
+    "endMs": 45120,
+    "text": "هنا تحت. بطة ديت بتـ control device بتاعك",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "هنا",
+        "startMs": 42380,
+        "endMs": 42500
+      },
+      {
+        "text": "تحت.",
+        "startMs": 42540,
+        "endMs": 42820
+      },
+      {
+        "text": "بطة",
+        "startMs": 43260,
+        "endMs": 43480
+      },
+      {
+        "text": "ديت",
+        "startMs": 43520,
+        "endMs": 43780
+      },
+      {
+        "text": "بتـ",
+        "startMs": 44000,
+        "endMs": 44140
+      },
+      {
+        "text": "control",
+        "startMs": 44160,
+        "endMs": 44520
+      },
+      {
+        "text": "device",
+        "startMs": 44580,
+        "endMs": 44840
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 44880,
+        "endMs": 45120
+      }
+    ]
+  },
+  {
+    "startMs": 45160,
+    "endMs": 46900,
+    "text": "كامل. نقول إن إنت هتاخد course بتاع",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "كامل.",
+        "startMs": 45160,
+        "endMs": 45460
+      },
+      {
+        "text": "نقول",
+        "startMs": 45860,
+        "endMs": 46000
+      },
+      {
+        "text": "إن",
+        "startMs": 46060,
+        "endMs": 46100
+      },
+      {
+        "text": "إنت",
+        "startMs": 46100,
+        "endMs": 46200
+      },
+      {
+        "text": "هتاخد",
+        "startMs": 46220,
+        "endMs": 46460
+      },
+      {
+        "text": "course",
+        "startMs": 46500,
+        "endMs": 46700
+      },
+      {
+        "text": "بتاع",
+        "startMs": 46760,
+        "endMs": 46900
+      }
+    ]
+  },
+  {
+    "startMs": 46940,
+    "endMs": 47220,
+    "text": "Blender،",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "Blender،",
+        "startMs": 46940,
+        "endMs": 47220
+      }
+    ]
+  },
+  {
+    "startMs": 47900,
+    "endMs": 50460,
+    "text": "بطة بتمسك الـ mouse بتاعك، تحركه في الحتة",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بطة",
+        "startMs": 47900,
+        "endMs": 48140
+      },
+      {
+        "text": "بتمسك",
+        "startMs": 48540,
+        "endMs": 48920
+      },
+      {
+        "text": "الـ",
+        "startMs": 48940,
+        "endMs": 49000
+      },
+      {
+        "text": "mouse",
+        "startMs": 49020,
+        "endMs": 49220
+      },
+      {
+        "text": "بتاعك،",
+        "startMs": 49240,
+        "endMs": 49560
+      },
+      {
+        "text": "تحركه",
+        "startMs": 49620,
+        "endMs": 50060
+      },
+      {
+        "text": "في",
+        "startMs": 50100,
+        "endMs": 50140
+      },
+      {
+        "text": "الحتة",
+        "startMs": 50140,
+        "endMs": 50460
+      }
+    ]
+  },
+  {
+    "startMs": 50460,
+    "endMs": 52220,
+    "text": "اللي إنت محتاج تتعلمها، تقول لك الحتة دي",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "اللي",
+        "startMs": 50460,
+        "endMs": 50520
+      },
+      {
+        "text": "إنت",
+        "startMs": 50540,
+        "endMs": 50640
+      },
+      {
+        "text": "محتاج",
+        "startMs": 50680,
+        "endMs": 50900
+      },
+      {
+        "text": "تتعلمها،",
+        "startMs": 50920,
+        "endMs": 51320
+      },
+      {
+        "text": "تقول",
+        "startMs": 51660,
+        "endMs": 51780
+      },
+      {
+        "text": "لك",
+        "startMs": 51800,
+        "endMs": 51900
+      },
+      {
+        "text": "الحتة",
+        "startMs": 51900,
+        "endMs": 52100
+      },
+      {
+        "text": "دي",
+        "startMs": 52140,
+        "endMs": 52220
+      }
+    ]
+  },
+  {
+    "startMs": 52240,
+    "endMs": 54420,
+    "text": "بتعمل إيه، اضغط عليها، تمشي في الـ details",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بتعمل",
+        "startMs": 52240,
+        "endMs": 52560
+      },
+      {
+        "text": "إيه،",
+        "startMs": 52600,
+        "endMs": 52740
+      },
+      {
+        "text": "اضغط",
+        "startMs": 52980,
+        "endMs": 53240
+      },
+      {
+        "text": "عليها،",
+        "startMs": 53300,
+        "endMs": 53520
+      },
+      {
+        "text": "تمشي",
+        "startMs": 53820,
+        "endMs": 54040
+      },
+      {
+        "text": "في",
+        "startMs": 54080,
+        "endMs": 54120
+      },
+      {
+        "text": "الـ",
+        "startMs": 54140,
+        "endMs": 54160
+      },
+      {
+        "text": "details",
+        "startMs": 54180,
+        "endMs": 54420
+      }
+    ]
+  },
+  {
+    "startMs": 54460,
+    "endMs": 56120,
+    "text": "إزاي. فبالتالي دلوقتي",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "إزاي.",
+        "startMs": 54460,
+        "endMs": 54720
+      },
+      {
+        "text": "فبالتالي",
+        "startMs": 55240,
+        "endMs": 55720
+      },
+      {
+        "text": "دلوقتي",
+        "startMs": 55740,
+        "endMs": 56120
+      }
+    ]
+  },
+  {
+    "startMs": 56740,
+    "endMs": 59620,
+    "text": "تفهم كل حاجة بالتفصيل، مفهمتهاش، عيد تاني.",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "تفهم",
+        "startMs": 56740,
+        "endMs": 57060
+      },
+      {
+        "text": "كل",
+        "startMs": 57100,
+        "endMs": 57260
+      },
+      {
+        "text": "حاجة",
+        "startMs": 57280,
+        "endMs": 57420
+      },
+      {
+        "text": "بالتفصيل،",
+        "startMs": 57440,
+        "endMs": 57900
+      },
+      {
+        "text": "مفهمتهاش،",
+        "startMs": 58180,
+        "endMs": 58700
+      },
+      {
+        "text": "عيد",
+        "startMs": 59160,
+        "endMs": 59320
+      },
+      {
+        "text": "تاني.",
+        "startMs": 59380,
+        "endMs": 59620
+      }
+    ]
+  },
+  {
+    "startMs": 59920,
+    "endMs": 62920,
+    "text": "قل لبطة تفهمك بطريقة أسهل. بطة هي AI كامل",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "قل",
+        "startMs": 59920,
+        "endMs": 60000
+      },
+      {
+        "text": "لبطة",
+        "startMs": 60020,
+        "endMs": 60240
+      },
+      {
+        "text": "تفهمك",
+        "startMs": 60280,
+        "endMs": 60500
+      },
+      {
+        "text": "بطريقة",
+        "startMs": 60520,
+        "endMs": 60840
+      },
+      {
+        "text": "أسهل.",
+        "startMs": 60840,
+        "endMs": 61080
+      },
+      {
+        "text": "بطة",
+        "startMs": 61360,
+        "endMs": 61640
+      },
+      {
+        "text": "هي",
+        "startMs": 61940,
+        "endMs": 62140
+      },
+      {
+        "text": "AI",
+        "startMs": 62160,
+        "endMs": 62400
+      },
+      {
+        "text": "كامل",
+        "startMs": 62560,
+        "endMs": 62920
+      }
+    ]
+  },
+  {
+    "startMs": 62940,
+    "endMs": 65580,
+    "text": "بيتحكم في كل شي عندك. خلص؟ وهطلع أنا",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بيتحكم",
+        "startMs": 62940,
+        "endMs": 63240
+      },
+      {
+        "text": "في",
+        "startMs": 63320,
+        "endMs": 63320
+      },
+      {
+        "text": "كل",
+        "startMs": 63340,
+        "endMs": 63480
+      },
+      {
+        "text": "شي",
+        "startMs": 63500,
+        "endMs": 63600
+      },
+      {
+        "text": "عندك.",
+        "startMs": 63640,
+        "endMs": 63960
+      },
+      {
+        "text": "خلص؟",
+        "startMs": 64480,
+        "endMs": 64819
+      },
+      {
+        "text": "وهطلع",
+        "startMs": 65239,
+        "endMs": 65480
+      },
+      {
+        "text": "أنا",
+        "startMs": 65500,
+        "endMs": 65580
+      }
+    ]
+  },
+  {
+    "startMs": 65620,
+    "endMs": 67860,
+    "text": "دلوقتي.",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "دلوقتي.",
+        "startMs": 65620,
+        "endMs": 67860
+      }
+    ]
+  },
+  {
+    "startMs": 67900,
+    "endMs": 69660,
+    "text": "بما إن بشمهندس عبد الرحمن خرج، خلوني",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "بما",
+        "startMs": 67900,
+        "endMs": 68080
+      },
+      {
+        "text": "إن",
+        "startMs": 68100,
+        "endMs": 68220
+      },
+      {
+        "text": "بشمهندس",
+        "startMs": 68240,
+        "endMs": 68660
+      },
+      {
+        "text": "عبد",
+        "startMs": 68700,
+        "endMs": 68820
+      },
+      {
+        "text": "الرحمن",
+        "startMs": 68840,
+        "endMs": 69120
+      },
+      {
+        "text": "خرج،",
+        "startMs": 69160,
+        "endMs": 69380
+      },
+      {
+        "text": "خلوني",
+        "startMs": 69440,
+        "endMs": 69660
+      }
+    ]
+  },
+  {
+    "startMs": 69680,
+    "endMs": 72080,
+    "text": "أكلمكم عن بطة mobile app. بطة mobile app،",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "أكلمكم",
+        "startMs": 69680,
+        "endMs": 70040
+      },
+      {
+        "text": "عن",
+        "startMs": 70080,
+        "endMs": 70160
+      },
+      {
+        "text": "بطة",
+        "startMs": 70200,
+        "endMs": 70420
+      },
+      {
+        "text": "mobile",
+        "startMs": 70440,
+        "endMs": 70700
+      },
+      {
+        "text": "app.",
+        "startMs": 70780,
+        "endMs": 70960
+      },
+      {
+        "text": "بطة",
+        "startMs": 71300,
+        "endMs": 71520
+      },
+      {
+        "text": "mobile",
+        "startMs": 71560,
+        "endMs": 71840
+      },
+      {
+        "text": "app،",
+        "startMs": 71960,
+        "endMs": 72080
+      }
+    ]
+  },
+  {
+    "startMs": 72220,
+    "endMs": 74280,
+    "text": "إنت دلوقتي برة البيت في المواصلات وعايز",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "إنت",
+        "startMs": 72220,
+        "endMs": 72400
+      },
+      {
+        "text": "دلوقتي",
+        "startMs": 72420,
+        "endMs": 72700
+      },
+      {
+        "text": "برة",
+        "startMs": 72740,
+        "endMs": 72920
+      },
+      {
+        "text": "البيت",
+        "startMs": 72940,
+        "endMs": 73260
+      },
+      {
+        "text": "في",
+        "startMs": 73300,
+        "endMs": 73360
+      },
+      {
+        "text": "المواصلات",
+        "startMs": 73380,
+        "endMs": 73920
+      },
+      {
+        "text": "وعايز",
+        "startMs": 73960,
+        "endMs": 74280
+      }
+    ]
+  },
+  {
+    "startMs": 74320,
+    "endMs": 76200,
+    "text": "تنجز في وقتك، إنت تقدر تخش على الـ",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "تنجز",
+        "startMs": 74320,
+        "endMs": 74600
+      },
+      {
+        "text": "في",
+        "startMs": 74620,
+        "endMs": 74660
+      },
+      {
+        "text": "وقتك،",
+        "startMs": 74700,
+        "endMs": 74980
+      },
+      {
+        "text": "إنت",
+        "startMs": 75380,
+        "endMs": 75500
+      },
+      {
+        "text": "تقدر",
+        "startMs": 75500,
+        "endMs": 75740
+      },
+      {
+        "text": "تخش",
+        "startMs": 75800,
+        "endMs": 76040
+      },
+      {
+        "text": "على",
+        "startMs": 76100,
+        "endMs": 76180
+      },
+      {
+        "text": "الـ",
+        "startMs": 76180,
+        "endMs": 76200
+      }
+    ]
+  },
+  {
+    "startMs": 76220,
+    "endMs": 78460,
+    "text": "mobile app وتخش على الـ course اللي إنت بدأته",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "mobile",
+        "startMs": 76220,
+        "endMs": 76500
+      },
+      {
+        "text": "app",
+        "startMs": 76620,
+        "endMs": 76800
+      },
+      {
+        "text": "وتخش",
+        "startMs": 77160,
+        "endMs": 77480
+      },
+      {
+        "text": "على",
+        "startMs": 77560,
+        "endMs": 77680
+      },
+      {
+        "text": "الـ",
+        "startMs": 77680,
+        "endMs": 77740
+      },
+      {
+        "text": "course",
+        "startMs": 77760,
+        "endMs": 77940
+      },
+      {
+        "text": "اللي",
+        "startMs": 78000,
+        "endMs": 78080
+      },
+      {
+        "text": "إنت",
+        "startMs": 78100,
+        "endMs": 78240
+      },
+      {
+        "text": "بدأته",
+        "startMs": 78280,
+        "endMs": 78460
+      }
+    ]
+  },
+  {
+    "startMs": 79020,
+    "endMs": 81900,
+    "text": "وتعمل آه، الـ task بتاعك وتعمل له submit،",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "وتعمل",
+        "startMs": 79020,
+        "endMs": 79580
+      },
+      {
+        "text": "آه،",
+        "startMs": 79700,
+        "endMs": 79880
+      },
+      {
+        "text": "الـ",
+        "startMs": 79900,
+        "endMs": 80020
+      },
+      {
+        "text": "task",
+        "startMs": 80040,
+        "endMs": 80240
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 80340,
+        "endMs": 80760
+      },
+      {
+        "text": "وتعمل",
+        "startMs": 81120,
+        "endMs": 81460
+      },
+      {
+        "text": "له",
+        "startMs": 81480,
+        "endMs": 81560
+      },
+      {
+        "text": "submit،",
+        "startMs": 81600,
+        "endMs": 81900
+      }
+    ]
+  },
+  {
+    "startMs": 81980,
+    "endMs": 84360,
+    "text": "والـ AI ساعتها يعمل لك check يا green إن",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "والـ",
+        "startMs": 81980,
+        "endMs": 82120
+      },
+      {
+        "text": "AI",
+        "startMs": 82160,
+        "endMs": 82360
+      },
+      {
+        "text": "ساعتها",
+        "startMs": 82400,
+        "endMs": 82700
+      },
+      {
+        "text": "يعمل",
+        "startMs": 82740,
+        "endMs": 82920
+      },
+      {
+        "text": "لك",
+        "startMs": 82960,
+        "endMs": 83120
+      },
+      {
+        "text": "check",
+        "startMs": 83140,
+        "endMs": 83400
+      },
+      {
+        "text": "يا",
+        "startMs": 83720,
+        "endMs": 83800
+      },
+      {
+        "text": "green",
+        "startMs": 83900,
+        "endMs": 84240
+      },
+      {
+        "text": "إن",
+        "startMs": 84280,
+        "endMs": 84360
+      }
+    ]
+  },
+  {
+    "startMs": 84400,
+    "endMs": 87180,
+    "text": "إنت كده خلاص، إنت كده accepted، أو هيديك",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "إنت",
+        "startMs": 84400,
+        "endMs": 84580
+      },
+      {
+        "text": "كده",
+        "startMs": 84620,
+        "endMs": 84760
+      },
+      {
+        "text": "خلاص،",
+        "startMs": 84800,
+        "endMs": 85020
+      },
+      {
+        "text": "إنت",
+        "startMs": 85060,
+        "endMs": 85220
+      },
+      {
+        "text": "كده",
+        "startMs": 85260,
+        "endMs": 85400
+      },
+      {
+        "text": "accepted،",
+        "startMs": 85420,
+        "endMs": 85880
+      },
+      {
+        "text": "أو",
+        "startMs": 86420,
+        "endMs": 86560
+      },
+      {
+        "text": "هيديك",
+        "startMs": 86700,
+        "endMs": 87180
+      }
+    ]
+  },
+  {
+    "startMs": 87200,
+    "endMs": 89660,
+    "text": "الـ- آه، الـ red، وبكده إنت هتحتاج إن إنت",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "الـ-",
+        "startMs": 87200,
+        "endMs": 87380
+      },
+      {
+        "text": "آه،",
+        "startMs": 87460,
+        "endMs": 87720
+      },
+      {
+        "text": "الـ",
+        "startMs": 87760,
+        "endMs": 87860
+      },
+      {
+        "text": "red،",
+        "startMs": 87900,
+        "endMs": 88160
+      },
+      {
+        "text": "وبكده",
+        "startMs": 88340,
+        "endMs": 88680
+      },
+      {
+        "text": "إنت",
+        "startMs": 88720,
+        "endMs": 88860
+      },
+      {
+        "text": "هتحتاج",
+        "startMs": 88920,
+        "endMs": 89360
+      },
+      {
+        "text": "إن",
+        "startMs": 89380,
+        "endMs": 89500
+      },
+      {
+        "text": "إنت",
+        "startMs": 89540,
+        "endMs": 89660
+      }
+    ]
+  },
+  {
+    "startMs": 89760,
+    "endMs": 91720,
+    "text": "تشوف إيه الغلطات اللي عندك والـ AI مصححها",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "تشوف",
+        "startMs": 89760,
+        "endMs": 89980
+      },
+      {
+        "text": "إيه",
+        "startMs": 90020,
+        "endMs": 90060
+      },
+      {
+        "text": "الغلطات",
+        "startMs": 90080,
+        "endMs": 90480
+      },
+      {
+        "text": "اللي",
+        "startMs": 90540,
+        "endMs": 90640
+      },
+      {
+        "text": "عندك",
+        "startMs": 90680,
+        "endMs": 90940
+      },
+      {
+        "text": "والـ",
+        "startMs": 90960,
+        "endMs": 91100
+      },
+      {
+        "text": "AI",
+        "startMs": 91180,
+        "endMs": 91280
+      },
+      {
+        "text": "مصححها",
+        "startMs": 91320,
+        "endMs": 91720
+      }
+    ]
+  },
+  {
+    "startMs": 91760,
+    "endMs": 94360,
+    "text": "لك إزاي، وإنت المفروض تكمل معاه لحد ما",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "لك",
+        "startMs": 91760,
+        "endMs": 91880
+      },
+      {
+        "text": "إزاي،",
+        "startMs": 91920,
+        "endMs": 92260
+      },
+      {
+        "text": "وإنت",
+        "startMs": 92780,
+        "endMs": 93020
+      },
+      {
+        "text": "المفروض",
+        "startMs": 93040,
+        "endMs": 93400
+      },
+      {
+        "text": "تكمل",
+        "startMs": 93400,
+        "endMs": 93760
+      },
+      {
+        "text": "معاه",
+        "startMs": 93820,
+        "endMs": 93960
+      },
+      {
+        "text": "لحد",
+        "startMs": 93980,
+        "endMs": 94260
+      },
       {
         "text": "ما",
-        "startMs": 115540,
-        "endMs": 115700
-      },
-      {
-        "text": "بيستناش!",
-        "startMs": 115740,
-        "endMs": 117520
+        "startMs": 94300,
+        "endMs": 94360
       }
     ]
   },
   {
-    "startMs": 120760,
-    "endMs": 122400,
-    "text": "ICPC HUE",
+    "startMs": 94400,
+    "endMs": 96060,
+    "text": "تخلص task ده عشان تخش على الـ task اللي",
+    "speaker": "Speaker 0",
     "words": [
       {
-        "text": "ICPC",
-        "startMs": 120760,
-        "endMs": 121720
+        "text": "تخلص",
+        "startMs": 94400,
+        "endMs": 94720
       },
       {
-        "text": "HUE",
-        "startMs": 122040,
-        "endMs": 122400
+        "text": "task",
+        "startMs": 94740,
+        "endMs": 94940
+      },
+      {
+        "text": "ده",
+        "startMs": 95000,
+        "endMs": 95100
+      },
+      {
+        "text": "عشان",
+        "startMs": 95180,
+        "endMs": 95360
+      },
+      {
+        "text": "تخش",
+        "startMs": 95400,
+        "endMs": 95600
+      },
+      {
+        "text": "على",
+        "startMs": 95660,
+        "endMs": 95720
+      },
+      {
+        "text": "الـ",
+        "startMs": 95740,
+        "endMs": 95740
+      },
+      {
+        "text": "task",
+        "startMs": 95760,
+        "endMs": 95920
+      },
+      {
+        "text": "اللي",
+        "startMs": 95940,
+        "endMs": 96060
+      }
+    ]
+  },
+  {
+    "startMs": 96100,
+    "endMs": 98680,
+    "text": "بعده. أنا دلوقتي هروح أشوف البشمهندسين",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "بعده.",
+        "startMs": 96100,
+        "endMs": 96260
+      },
+      {
+        "text": "أنا",
+        "startMs": 96720,
+        "endMs": 96820
+      },
+      {
+        "text": "دلوقتي",
+        "startMs": 96860,
+        "endMs": 97160
+      },
+      {
+        "text": "هروح",
+        "startMs": 97200,
+        "endMs": 97400
+      },
+      {
+        "text": "أشوف",
+        "startMs": 97440,
+        "endMs": 97740
+      },
+      {
+        "text": "البشمهندسين",
+        "startMs": 98100,
+        "endMs": 98680
+      }
+    ]
+  },
+  {
+    "startMs": 98740,
+    "endMs": 102680,
+    "text": "راحوا لفين وراك.",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "راحوا",
+        "startMs": 98740,
+        "endMs": 98900
+      },
+      {
+        "text": "لفين",
+        "startMs": 98920,
+        "endMs": 99140
+      },
+      {
+        "text": "وراك.",
+        "startMs": 99160,
+        "endMs": 102680
+      }
+    ]
+  },
+  {
+    "startMs": 102700,
+    "endMs": 105000,
+    "text": "طيب أنا رجعت ليكم وجاي أقول لكم دلوقتي",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "طيب",
+        "startMs": 102700,
+        "endMs": 102900
+      },
+      {
+        "text": "أنا",
+        "startMs": 102940,
+        "endMs": 103080
+      },
+      {
+        "text": "رجعت",
+        "startMs": 103100,
+        "endMs": 103360
+      },
+      {
+        "text": "ليكم",
+        "startMs": 103420,
+        "endMs": 103700
+      },
+      {
+        "text": "وجاي",
+        "startMs": 104140,
+        "endMs": 104420
+      },
+      {
+        "text": "أقول",
+        "startMs": 104440,
+        "endMs": 104520
+      },
+      {
+        "text": "لكم",
+        "startMs": 104540,
+        "endMs": 104720
+      },
+      {
+        "text": "دلوقتي",
+        "startMs": 104740,
+        "endMs": 105000
+      }
+    ]
+  },
+  {
+    "startMs": 105020,
+    "endMs": 107340,
+    "text": "إزاي بطة بيجيب فلوس. بطة بيجيب فلوس من",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "إزاي",
+        "startMs": 105020,
+        "endMs": 105260
+      },
+      {
+        "text": "بطة",
+        "startMs": 105280,
+        "endMs": 105480
+      },
+      {
+        "text": "بيجيب",
+        "startMs": 105500,
+        "endMs": 105720
+      },
+      {
+        "text": "فلوس.",
+        "startMs": 105760,
+        "endMs": 106020
+      },
+      {
+        "text": "بطة",
+        "startMs": 106340,
+        "endMs": 106500
+      },
+      {
+        "text": "بيجيب",
+        "startMs": 106540,
+        "endMs": 106740
+      },
+      {
+        "text": "فلوس",
+        "startMs": 106780,
+        "endMs": 107080
+      },
+      {
+        "text": "من",
+        "startMs": 107240,
+        "endMs": 107340
+      }
+    ]
+  },
+  {
+    "startMs": 107380,
+    "endMs": 109680,
+    "text": "خلال طرق كتيرة. أول طريقة إن إحنا بنوفر",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "خلال",
+        "startMs": 107380,
+        "endMs": 107640
+      },
+      {
+        "text": "طرق",
+        "startMs": 107800,
+        "endMs": 107980
+      },
+      {
+        "text": "كتيرة.",
+        "startMs": 108000,
+        "endMs": 108320
+      },
+      {
+        "text": "أول",
+        "startMs": 108620,
+        "endMs": 108800
+      },
+      {
+        "text": "طريقة",
+        "startMs": 108840,
+        "endMs": 109040
+      },
+      {
+        "text": "إن",
+        "startMs": 109080,
+        "endMs": 109100
+      },
+      {
+        "text": "إحنا",
+        "startMs": 109140,
+        "endMs": 109320
+      },
+      {
+        "text": "بنوفر",
+        "startMs": 109360,
+        "endMs": 109680
+      }
+    ]
+  },
+  {
+    "startMs": 109720,
+    "endMs": 111260,
+    "text": "courses. من الـ courses اللي إحنا بنوفرها",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "courses.",
+        "startMs": 109720,
+        "endMs": 110100
+      },
+      {
+        "text": "من",
+        "startMs": 110260,
+        "endMs": 110320
+      },
+      {
+        "text": "الـ",
+        "startMs": 110340,
+        "endMs": 110400
+      },
+      {
+        "text": "courses",
+        "startMs": 110420,
+        "endMs": 110660
+      },
+      {
+        "text": "اللي",
+        "startMs": 110680,
+        "endMs": 110760
+      },
+      {
+        "text": "إحنا",
+        "startMs": 110780,
+        "endMs": 110900
+      },
+      {
+        "text": "بنوفرها",
+        "startMs": 110920,
+        "endMs": 111260
+      }
+    ]
+  },
+  {
+    "startMs": 111420,
+    "endMs": 112800,
+    "text": "3D modeling in blender.",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "3D",
+        "startMs": 111420,
+        "endMs": 111640
+      },
+      {
+        "text": "modeling",
+        "startMs": 111680,
+        "endMs": 112020
+      },
+      {
+        "text": "in",
+        "startMs": 112380,
+        "endMs": 112480
+      },
+      {
+        "text": "blender.",
+        "startMs": 112520,
+        "endMs": 112800
+      }
+    ]
+  },
+  {
+    "startMs": 113480,
+    "endMs": 115760,
+    "text": "طب بما إن بطة هو AI agent، فهو حاليًا",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "طب",
+        "startMs": 113480,
+        "endMs": 113560
+      },
+      {
+        "text": "بما",
+        "startMs": 113660,
+        "endMs": 113840
+      },
+      {
+        "text": "إن",
+        "startMs": 113860,
+        "endMs": 114020
+      },
+      {
+        "text": "بطة",
+        "startMs": 114040,
+        "endMs": 114240
+      },
+      {
+        "text": "هو",
+        "startMs": 114280,
+        "endMs": 114420
+      },
+      {
+        "text": "AI",
+        "startMs": 114440,
+        "endMs": 114660
+      },
+      {
+        "text": "agent،",
+        "startMs": 114720,
+        "endMs": 114980
+      },
+      {
+        "text": "فهو",
+        "startMs": 115220,
+        "endMs": 115340
+      },
+      {
+        "text": "حاليًا",
+        "startMs": 115400,
+        "endMs": 115760
+      }
+    ]
+  },
+  {
+    "startMs": 115820,
+    "endMs": 117640,
+    "text": "بيستخدم الـ mouse بتاعك وبيستخدم الجهاز",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "بيستخدم",
+        "startMs": 115820,
+        "endMs": 116340
+      },
+      {
+        "text": "الـ",
+        "startMs": 116360,
+        "endMs": 116440
+      },
+      {
+        "text": "mouse",
+        "startMs": 116480,
+        "endMs": 116660
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 116680,
+        "endMs": 116940
+      },
+      {
+        "text": "وبيستخدم",
+        "startMs": 116960,
+        "endMs": 117340
+      },
+      {
+        "text": "الجهاز",
+        "startMs": 117360,
+        "endMs": 117640
+      }
+    ]
+  },
+  {
+    "startMs": 117660,
+    "endMs": 120000,
+    "text": "بتاعك كامل بحيث إن هو يعلمك الـ skill دي",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "بتاعك",
+        "startMs": 117660,
+        "endMs": 118040
+      },
+      {
+        "text": "كامل",
+        "startMs": 118100,
+        "endMs": 118360
+      },
+      {
+        "text": "بحيث",
+        "startMs": 118380,
+        "endMs": 118580
+      },
+      {
+        "text": "إن",
+        "startMs": 118600,
+        "endMs": 118660
+      },
+      {
+        "text": "هو",
+        "startMs": 118680,
+        "endMs": 118740
+      },
+      {
+        "text": "يعلمك",
+        "startMs": 118780,
+        "endMs": 119280
+      },
+      {
+        "text": "الـ",
+        "startMs": 119360,
+        "endMs": 119460
+      },
+      {
+        "text": "skill",
+        "startMs": 119520,
+        "endMs": 119780
+      },
+      {
+        "text": "دي",
+        "startMs": 119820,
+        "endMs": 120000
+      }
+    ]
+  },
+  {
+    "startMs": 120020,
+    "endMs": 123260,
+    "text": "اللي هي 3D modeling وبيعلمك بالـ AI agent.",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "اللي",
+        "startMs": 120020,
+        "endMs": 120180
+      },
+      {
+        "text": "هي",
+        "startMs": 120220,
+        "endMs": 120460
+      },
+      {
+        "text": "3D",
+        "startMs": 120720,
+        "endMs": 121000
+      },
+      {
+        "text": "modeling",
+        "startMs": 121040,
+        "endMs": 121380
+      },
+      {
+        "text": "وبيعلمك",
+        "startMs": 121700,
+        "endMs": 122620
+      },
+      {
+        "text": "بالـ",
+        "startMs": 122620,
+        "endMs": 122740
+      },
+      {
+        "text": "AI",
+        "startMs": 122780,
+        "endMs": 122900
+      },
+      {
+        "text": "agent.",
+        "startMs": 122980,
+        "endMs": 123260
+      }
+    ]
+  },
+  {
+    "startMs": 123320,
+    "endMs": 124560,
+    "text": "يعني هو بيمسك مثلًا الـ mouse بتاعك",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "يعني",
+        "startMs": 123320,
+        "endMs": 123440
+      },
+      {
+        "text": "هو",
+        "startMs": 123480,
+        "endMs": 123560
+      },
+      {
+        "text": "بيمسك",
+        "startMs": 123600,
+        "endMs": 123860
+      },
+      {
+        "text": "مثلًا",
+        "startMs": 123880,
+        "endMs": 124080
+      },
+      {
+        "text": "الـ",
+        "startMs": 124080,
+        "endMs": 124120
+      },
+      {
+        "text": "mouse",
+        "startMs": 124120,
+        "endMs": 124280
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 124300,
+        "endMs": 124560
+      }
+    ]
+  },
+  {
+    "startMs": 124580,
+    "endMs": 126400,
+    "text": "ويوديه من هنا ويرجعه هنا علشان يقول لك",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "ويوديه",
+        "startMs": 124580,
+        "endMs": 124760
+      },
+      {
+        "text": "من",
+        "startMs": 124800,
+        "endMs": 124880
+      },
+      {
+        "text": "هنا",
+        "startMs": 124920,
+        "endMs": 125040
+      },
+      {
+        "text": "ويرجعه",
+        "startMs": 125060,
+        "endMs": 125440
+      },
+      {
+        "text": "هنا",
+        "startMs": 125480,
+        "endMs": 125760
+      },
+      {
+        "text": "علشان",
+        "startMs": 125800,
+        "endMs": 126040
+      },
+      {
+        "text": "يقول",
+        "startMs": 126060,
+        "endMs": 126220
+      },
+      {
+        "text": "لك",
+        "startMs": 126240,
+        "endMs": 126400
+      }
+    ]
+  },
+  {
+    "startMs": 126440,
+    "endMs": 128259,
+    "text": "اعمل الخطوات دي عشان تتعلم الـ skill دي.",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "اعمل",
+        "startMs": 126440,
+        "endMs": 126640
+      },
+      {
+        "text": "الخطوات",
+        "startMs": 126660,
+        "endMs": 127000
+      },
+      {
+        "text": "دي",
+        "startMs": 127000,
+        "endMs": 127100
+      },
+      {
+        "text": "عشان",
+        "startMs": 127140,
+        "endMs": 127320
+      },
+      {
+        "text": "تتعلم",
+        "startMs": 127340,
+        "endMs": 127680
+      },
+      {
+        "text": "الـ",
+        "startMs": 127700,
+        "endMs": 127820
+      },
+      {
+        "text": "skill",
+        "startMs": 127880,
+        "endMs": 128120
+      },
+      {
+        "text": "دي.",
+        "startMs": 128160,
+        "endMs": 128259
+      }
+    ]
+  },
+  {
+    "startMs": 128660,
+    "endMs": 130660,
+    "text": "دي أول طريقة بنجيب منها فلوس. تاني طريقة",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "دي",
+        "startMs": 128660,
+        "endMs": 128740
+      },
+      {
+        "text": "أول",
+        "startMs": 128759,
+        "endMs": 128960
+      },
+      {
+        "text": "طريقة",
+        "startMs": 129000,
+        "endMs": 129160
+      },
+      {
+        "text": "بنجيب",
+        "startMs": 129180,
+        "endMs": 129400
+      },
+      {
+        "text": "منها",
+        "startMs": 129419,
+        "endMs": 129639
+      },
+      {
+        "text": "فلوس.",
+        "startMs": 129660,
+        "endMs": 129919
+      },
+      {
+        "text": "تاني",
+        "startMs": 130259,
+        "endMs": 130400
+      },
+      {
+        "text": "طريقة",
+        "startMs": 130440,
+        "endMs": 130660
+      }
+    ]
+  },
+  {
+    "startMs": 130680,
+    "endMs": 133300,
+    "text": "إن إحنا بنبيع الـ AI agent بتاعنا، بحيث",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "إن",
+        "startMs": 130680,
+        "endMs": 130740
+      },
+      {
+        "text": "إحنا",
+        "startMs": 130780,
+        "endMs": 130919
+      },
+      {
+        "text": "بنبيع",
+        "startMs": 130960,
+        "endMs": 131440
+      },
+      {
+        "text": "الـ",
+        "startMs": 131460,
+        "endMs": 131580
+      },
+      {
+        "text": "AI",
+        "startMs": 131600,
+        "endMs": 131860
+      },
+      {
+        "text": "agent",
+        "startMs": 131960,
+        "endMs": 132220
+      },
+      {
+        "text": "بتاعنا،",
+        "startMs": 132320,
+        "endMs": 132580
+      },
+      {
+        "text": "بحيث",
+        "startMs": 133020,
+        "endMs": 133300
+      }
+    ]
+  },
+  {
+    "startMs": 133320,
+    "endMs": 134940,
+    "text": "مثلًا إنت خلاص خلصت الـ topic ده وعايز",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "مثلًا",
+        "startMs": 133320,
+        "endMs": 133580
+      },
+      {
+        "text": "إنت",
+        "startMs": 133620,
+        "endMs": 133760
+      },
+      {
+        "text": "خلاص",
+        "startMs": 133800,
+        "endMs": 134020
+      },
+      {
+        "text": "خلصت",
+        "startMs": 134040,
+        "endMs": 134280
+      },
+      {
+        "text": "الـ",
+        "startMs": 134300,
+        "endMs": 134380
+      },
+      {
+        "text": "topic",
+        "startMs": 134400,
+        "endMs": 134580
+      },
+      {
+        "text": "ده",
+        "startMs": 134620,
+        "endMs": 134680
+      },
+      {
+        "text": "وعايز",
+        "startMs": 134720,
+        "endMs": 134940
+      }
+    ]
+  },
+  {
+    "startMs": 134960,
+    "endMs": 136840,
+    "text": "توصل لحاجات أعلى، عايز توصل لحاجات",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "توصل",
+        "startMs": 134960,
+        "endMs": 135200
+      },
+      {
+        "text": "لحاجات",
+        "startMs": 135220,
+        "endMs": 135640
+      },
+      {
+        "text": "أعلى،",
+        "startMs": 135660,
+        "endMs": 135900
+      },
+      {
+        "text": "عايز",
+        "startMs": 136140,
+        "endMs": 136260
+      },
+      {
+        "text": "توصل",
+        "startMs": 136280,
+        "endMs": 136500
+      },
+      {
+        "text": "لحاجات",
+        "startMs": 136520,
+        "endMs": 136840
+      }
+    ]
+  },
+  {
+    "startMs": 136900,
+    "endMs": 140080,
+    "text": "Advanced، فإنت تعرف تشتري AI tokens مننا من",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "Advanced،",
+        "startMs": 136900,
+        "endMs": 137220
+      },
+      {
+        "text": "فإنت",
+        "startMs": 137460,
+        "endMs": 137640
+      },
+      {
+        "text": "تعرف",
+        "startMs": 137660,
+        "endMs": 137860
+      },
+      {
+        "text": "تشتري",
+        "startMs": 137900,
+        "endMs": 138340
+      },
+      {
+        "text": "AI",
+        "startMs": 138400,
+        "endMs": 138720
+      },
+      {
+        "text": "tokens",
+        "startMs": 138760,
+        "endMs": 139120
+      },
+      {
+        "text": "مننا",
+        "startMs": 139300,
+        "endMs": 139620
+      },
+      {
+        "text": "من",
+        "startMs": 139980,
+        "endMs": 140080
+      }
+    ]
+  },
+  {
+    "startMs": 140120,
+    "endMs": 141920,
+    "text": "بطة، واللي بيبقى تحت اسم بطة agent،",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "بطة،",
+        "startMs": 140120,
+        "endMs": 140360
+      },
+      {
+        "text": "واللي",
+        "startMs": 140600,
+        "endMs": 140780
+      },
+      {
+        "text": "بيبقى",
+        "startMs": 140800,
+        "endMs": 140880
+      },
+      {
+        "text": "تحت",
+        "startMs": 140920,
+        "endMs": 141100
+      },
+      {
+        "text": "اسم",
+        "startMs": 141120,
+        "endMs": 141320
+      },
+      {
+        "text": "بطة",
+        "startMs": 141360,
+        "endMs": 141580
+      },
+      {
+        "text": "agent،",
+        "startMs": 141620,
+        "endMs": 141920
+      }
+    ]
+  },
+  {
+    "startMs": 142300,
+    "endMs": 144960,
+    "text": "وتستخدمه ملوش أي مشكلة. واحدة من طرق الربح",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "وتستخدمه",
+        "startMs": 142300,
+        "endMs": 143140
+      },
+      {
+        "text": "ملوش",
+        "startMs": 143160,
+        "endMs": 143300
+      },
+      {
+        "text": "أي",
+        "startMs": 143340,
+        "endMs": 143420
+      },
+      {
+        "text": "مشكلة.",
+        "startMs": 143460,
+        "endMs": 143800
+      },
+      {
+        "text": "واحدة",
+        "startMs": 144280,
+        "endMs": 144460
+      },
+      {
+        "text": "من",
+        "startMs": 144480,
+        "endMs": 144560
+      },
+      {
+        "text": "طرق",
+        "startMs": 144600,
+        "endMs": 144700
+      },
+      {
+        "text": "الربح",
+        "startMs": 144740,
+        "endMs": 144960
+      }
+    ]
+  },
+  {
+    "startMs": 145020,
+    "endMs": 147520,
+    "text": "بتاعتنا برضه إن حضرتك دلوقتي لو شركة أو",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "بتاعتنا",
+        "startMs": 145020,
+        "endMs": 145340
+      },
+      {
+        "text": "برضه",
+        "startMs": 145360,
+        "endMs": 145580
+      },
+      {
+        "text": "إن",
+        "startMs": 145880,
+        "endMs": 145940
+      },
+      {
+        "text": "حضرتك",
+        "startMs": 146140,
+        "endMs": 146460
+      },
+      {
+        "text": "دلوقتي",
+        "startMs": 146500,
+        "endMs": 146720
+      },
+      {
+        "text": "لو",
+        "startMs": 146760,
+        "endMs": 146880
+      },
+      {
+        "text": "شركة",
+        "startMs": 146940,
+        "endMs": 147180
+      },
+      {
+        "text": "أو",
+        "startMs": 147440,
+        "endMs": 147520
+      }
+    ]
+  },
+  {
+    "startMs": 147540,
+    "endMs": 149560,
+    "text": "هي متخصصة في التعليم، تعرف حضرتك تعمل",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "هي",
+        "startMs": 147540,
+        "endMs": 147640
+      },
+      {
+        "text": "متخصصة",
+        "startMs": 147660,
+        "endMs": 148080
+      },
+      {
+        "text": "في",
+        "startMs": 148120,
+        "endMs": 148160
+      },
+      {
+        "text": "التعليم،",
+        "startMs": 148160,
+        "endMs": 148520
+      },
+      {
+        "text": "تعرف",
+        "startMs": 148780,
+        "endMs": 148960
+      },
+      {
+        "text": "حضرتك",
+        "startMs": 148980,
+        "endMs": 149300
+      },
+      {
+        "text": "تعمل",
+        "startMs": 149340,
+        "endMs": 149560
+      }
+    ]
+  },
+  {
+    "startMs": 149580,
+    "endMs": 151680,
+    "text": "الـ course بتاعك وتستخدم الـ AI agent بتاعنا",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "الـ",
+        "startMs": 149580,
+        "endMs": 149660
+      },
+      {
+        "text": "course",
+        "startMs": 149680,
+        "endMs": 149860
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 149960,
+        "endMs": 150260
+      },
+      {
+        "text": "وتستخدم",
+        "startMs": 150280,
+        "endMs": 150700
+      },
+      {
+        "text": "الـ",
+        "startMs": 150720,
+        "endMs": 150780
+      },
+      {
+        "text": "AI",
+        "startMs": 150940,
+        "endMs": 151040
+      },
+      {
+        "text": "agent",
+        "startMs": 151080,
+        "endMs": 151340
+      },
+      {
+        "text": "بتاعنا",
+        "startMs": 151420,
+        "endMs": 151680
+      }
+    ]
+  },
+  {
+    "startMs": 151720,
+    "endMs": 154240,
+    "text": "فيه وتسلمه لينا، وإحنا هندفع وإحنا هناخد",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "فيه",
+        "startMs": 151720,
+        "endMs": 151840
+      },
+      {
+        "text": "وتسلمه",
+        "startMs": 152200,
+        "endMs": 152700
+      },
+      {
+        "text": "لينا،",
+        "startMs": 152740,
+        "endMs": 152940
+      },
+      {
+        "text": "وإحنا",
+        "startMs": 153240,
+        "endMs": 153420
+      },
+      {
+        "text": "هندفع",
+        "startMs": 153460,
+        "endMs": 153780
+      },
+      {
+        "text": "وإحنا",
+        "startMs": 153800,
+        "endMs": 153980
+      },
+      {
+        "text": "هناخد",
+        "startMs": 154000,
+        "endMs": 154240
+      }
+    ]
+  },
+  {
+    "startMs": 154280,
+    "endMs": 155940,
+    "text": "منه commission بحيث إن الـ course بتاعك",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "منه",
+        "startMs": 154280,
+        "endMs": 154460
+      },
+      {
+        "text": "commission",
+        "startMs": 154500,
+        "endMs": 154820
+      },
+      {
+        "text": "بحيث",
+        "startMs": 155060,
+        "endMs": 155180
+      },
+      {
+        "text": "إن",
+        "startMs": 155220,
+        "endMs": 155280
+      },
+      {
+        "text": "الـ",
+        "startMs": 155300,
+        "endMs": 155380
+      },
+      {
+        "text": "course",
+        "startMs": 155400,
+        "endMs": 155560
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 155640,
+        "endMs": 155940
+      }
+    ]
+  },
+  {
+    "startMs": 156040,
+    "endMs": 158240,
+    "text": "يرفع من منصة بطة. طيب مين المنافسين",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "يرفع",
+        "startMs": 156040,
+        "endMs": 156340
+      },
+      {
+        "text": "من",
+        "startMs": 156360,
+        "endMs": 156460
+      },
+      {
+        "text": "منصة",
+        "startMs": 156460,
+        "endMs": 156700
+      },
+      {
+        "text": "بطة.",
+        "startMs": 156740,
+        "endMs": 156980
+      },
+      {
+        "text": "طيب",
+        "startMs": 157200,
+        "endMs": 157600
+      },
+      {
+        "text": "مين",
+        "startMs": 157660,
+        "endMs": 157760
+      },
+      {
+        "text": "المنافسين",
+        "startMs": 157780,
+        "endMs": 158240
+      }
+    ]
+  },
+  {
+    "startMs": 158260,
+    "endMs": 159820,
+    "text": "بتوعنا؟ مين المنافسين فعليًا اللي موجودين",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "بتوعنا؟",
+        "startMs": 158260,
+        "endMs": 158600
+      },
+      {
+        "text": "مين",
+        "startMs": 158660,
+        "endMs": 158720
+      },
+      {
+        "text": "المنافسين",
+        "startMs": 158740,
+        "endMs": 159140
+      },
+      {
+        "text": "فعليًا",
+        "startMs": 159180,
+        "endMs": 159440
+      },
+      {
+        "text": "اللي",
+        "startMs": 159460,
+        "endMs": 159520
+      },
+      {
+        "text": "موجودين",
+        "startMs": 159560,
+        "endMs": 159820
+      }
+    ]
+  },
+  {
+    "startMs": 159860,
+    "endMs": 162920,
+    "text": "في السوق؟ حاليًا عندنا على المستوى المحلي،",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "في",
+        "startMs": 159860,
+        "endMs": 159920
+      },
+      {
+        "text": "السوق؟",
+        "startMs": 159920,
+        "endMs": 160180
+      },
+      {
+        "text": "حاليًا",
+        "startMs": 160500,
+        "endMs": 160760
+      },
+      {
+        "text": "عندنا",
+        "startMs": 160800,
+        "endMs": 161380
+      },
+      {
+        "text": "على",
+        "startMs": 161480,
+        "endMs": 161740
+      },
+      {
+        "text": "المستوى",
+        "startMs": 161800,
+        "endMs": 162420
+      },
+      {
+        "text": "المحلي،",
+        "startMs": 162480,
+        "endMs": 162920
+      }
+    ]
+  },
+  {
+    "startMs": 163200,
+    "endMs": 165760,
+    "text": "عندنا منصة ينفع، عندنا iSchool. وفي",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "عندنا",
+        "startMs": 163200,
+        "endMs": 163460
+      },
+      {
+        "text": "منصة",
+        "startMs": 163520,
+        "endMs": 163880
+      },
+      {
+        "text": "ينفع،",
+        "startMs": 163920,
+        "endMs": 164160
+      },
+      {
+        "text": "عندنا",
+        "startMs": 164500,
+        "endMs": 164820
+      },
+      {
+        "text": "iSchool.",
+        "startMs": 164900,
+        "endMs": 165300
+      },
+      {
+        "text": "وفي",
+        "startMs": 165480,
+        "endMs": 165760
+      }
+    ]
+  },
+  {
+    "startMs": 165760,
+    "endMs": 168640,
+    "text": "العالمي عندنا Khan Academy. ولكن لحد الآن",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "العالمي",
+        "startMs": 165760,
+        "endMs": 166440
+      },
+      {
+        "text": "عندنا",
+        "startMs": 166520,
+        "endMs": 166860
+      },
+      {
+        "text": "Khan",
+        "startMs": 167040,
+        "endMs": 167200
+      },
+      {
+        "text": "Academy.",
+        "startMs": 167240,
+        "endMs": 167620
+      },
+      {
+        "text": "ولكن",
+        "startMs": 167780,
+        "endMs": 168080
+      },
+      {
+        "text": "لحد",
+        "startMs": 168100,
+        "endMs": 168360
+      },
+      {
+        "text": "الآن",
+        "startMs": 168360,
+        "endMs": 168640
+      }
+    ]
+  },
+  {
+    "startMs": 168680,
+    "endMs": 170640,
+    "text": "المنافسين دول ما توصلوش إن هم يستخدموا",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "المنافسين",
+        "startMs": 168680,
+        "endMs": 169120
+      },
+      {
+        "text": "دول",
+        "startMs": 169160,
+        "endMs": 169300
+      },
+      {
+        "text": "ما",
+        "startMs": 169340,
+        "endMs": 169420
+      },
+      {
+        "text": "توصلوش",
+        "startMs": 169460,
+        "endMs": 169940
+      },
+      {
+        "text": "إن",
+        "startMs": 169980,
+        "endMs": 170040
+      },
+      {
+        "text": "هم",
+        "startMs": 170060,
+        "endMs": 170160
+      },
+      {
+        "text": "يستخدموا",
+        "startMs": 170220,
+        "endMs": 170640
+      }
+    ]
+  },
+  {
+    "startMs": 170660,
+    "endMs": 172960,
+    "text": "الـ AI agent fully in education،",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "الـ",
+        "startMs": 170660,
+        "endMs": 170820
+      },
+      {
+        "text": "AI",
+        "startMs": 170900,
+        "endMs": 171060
+      },
+      {
+        "text": "agent",
+        "startMs": 171220,
+        "endMs": 171520
+      },
+      {
+        "text": "fully",
+        "startMs": 171660,
+        "endMs": 171940
+      },
+      {
+        "text": "in",
+        "startMs": 172260,
+        "endMs": 172320
+      },
+      {
+        "text": "education،",
+        "startMs": 172400,
+        "endMs": 172960
+      }
+    ]
+  },
+  {
+    "startMs": 173280,
+    "endMs": 175820,
+    "text": "AI generative tokens أو الـ AI agent في",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "AI",
+        "startMs": 173280,
+        "endMs": 173500
+      },
+      {
+        "text": "generative",
+        "startMs": 173560,
+        "endMs": 173960
+      },
+      {
+        "text": "tokens",
+        "startMs": 174000,
+        "endMs": 174320
+      },
+      {
+        "text": "أو",
+        "startMs": 174600,
+        "endMs": 175000
+      },
+      {
+        "text": "الـ",
+        "startMs": 175040,
+        "endMs": 175180
+      },
+      {
+        "text": "AI",
+        "startMs": 175240,
+        "endMs": 175420
+      },
+      {
+        "text": "agent",
+        "startMs": 175440,
+        "endMs": 175720
+      },
+      {
+        "text": "في",
+        "startMs": 175760,
+        "endMs": 175820
+      }
+    ]
+  },
+  {
+    "startMs": 175820,
+    "endMs": 178380,
+    "text": "التعليم بتاعهم. ولو بتسألوا هل فعلًا الناس",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "التعليم",
+        "startMs": 175820,
+        "endMs": 176120
+      },
+      {
+        "text": "بتاعهم.",
+        "startMs": 176160,
+        "endMs": 176480
+      },
+      {
+        "text": "ولو",
+        "startMs": 176740,
+        "endMs": 176960
+      },
+      {
+        "text": "بتسألوا",
+        "startMs": 177000,
+        "endMs": 177540
+      },
+      {
+        "text": "هل",
+        "startMs": 177600,
+        "endMs": 177780
+      },
+      {
+        "text": "فعلًا",
+        "startMs": 177820,
+        "endMs": 178060
+      },
+      {
+        "text": "الناس",
+        "startMs": 178120,
+        "endMs": 178380
+      }
+    ]
+  },
+  {
+    "startMs": 178400,
+    "endMs": 180380,
+    "text": "محتاجين للحاجة دي؟ أو هل فعلًا الناس",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "محتاجين",
+        "startMs": 178400,
+        "endMs": 178800
+      },
+      {
+        "text": "للحاجة",
+        "startMs": 178840,
+        "endMs": 179220
+      },
+      {
+        "text": "دي؟",
+        "startMs": 179260,
+        "endMs": 179340
+      },
+      {
+        "text": "أو",
+        "startMs": 179660,
+        "endMs": 179740
+      },
+      {
+        "text": "هل",
+        "startMs": 179780,
+        "endMs": 179960
+      },
+      {
+        "text": "فعلًا",
+        "startMs": 180000,
+        "endMs": 180160
+      },
+      {
+        "text": "الناس",
+        "startMs": 180180,
+        "endMs": 180380
+      }
+    ]
+  },
+  {
+    "startMs": 180400,
+    "endMs": 182860,
+    "text": "متحمسين للحاجة دي؟ هنقول لحضراتكم إحنا",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "متحمسين",
+        "startMs": 180400,
+        "endMs": 181060
+      },
+      {
+        "text": "للحاجة",
+        "startMs": 181100,
+        "endMs": 181460
+      },
+      {
+        "text": "دي؟",
+        "startMs": 181500,
+        "endMs": 181580
+      },
+      {
+        "text": "هنقول",
+        "startMs": 181960,
+        "endMs": 182160
+      },
+      {
+        "text": "لحضراتكم",
+        "startMs": 182180,
+        "endMs": 182660
+      },
+      {
+        "text": "إحنا",
+        "startMs": 182700,
+        "endMs": 182860
+      }
+    ]
+  },
+  {
+    "startMs": 182900,
+    "endMs": 185060,
+    "text": "نزلنا في الـ campus عندنا في جامعة حورس،",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "نزلنا",
+        "startMs": 182900,
+        "endMs": 183140
+      },
+      {
+        "text": "في",
+        "startMs": 183180,
+        "endMs": 183200
+      },
+      {
+        "text": "الـ",
+        "startMs": 183220,
+        "endMs": 183300
+      },
+      {
+        "text": "campus",
+        "startMs": 183320,
+        "endMs": 183600
+      },
+      {
+        "text": "عندنا",
+        "startMs": 183640,
+        "endMs": 183920
+      },
+      {
+        "text": "في",
+        "startMs": 184280,
+        "endMs": 184460
+      },
+      {
+        "text": "جامعة",
+        "startMs": 184520,
+        "endMs": 184780
+      },
+      {
+        "text": "حورس،",
+        "startMs": 184840,
+        "endMs": 185060
+      }
+    ]
+  },
+  {
+    "startMs": 185280,
+    "endMs": 187020,
+    "text": "نزلنا عند كل الكليات وسألنا الطلبة اللي",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "نزلنا",
+        "startMs": 185280,
+        "endMs": 185580
+      },
+      {
+        "text": "عند",
+        "startMs": 185620,
+        "endMs": 185800
+      },
+      {
+        "text": "كل",
+        "startMs": 185820,
+        "endMs": 185940
+      },
+      {
+        "text": "الكليات",
+        "startMs": 185980,
+        "endMs": 186360
+      },
+      {
+        "text": "وسألنا",
+        "startMs": 186400,
+        "endMs": 186660
+      },
+      {
+        "text": "الطلبة",
+        "startMs": 186680,
+        "endMs": 186940
+      },
+      {
+        "text": "اللي",
+        "startMs": 186960,
+        "endMs": 187020
+      }
+    ]
+  },
+  {
+    "startMs": 187060,
+    "endMs": 189180,
+    "text": "موجودين فيها عدد كبير من الطلبة، وقالوا",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "موجودين",
+        "startMs": 187060,
+        "endMs": 187400
+      },
+      {
+        "text": "فيها",
+        "startMs": 187440,
+        "endMs": 187660
+      },
+      {
+        "text": "عدد",
+        "startMs": 187720,
+        "endMs": 187920
+      },
+      {
+        "text": "كبير",
+        "startMs": 187960,
+        "endMs": 188140
+      },
+      {
+        "text": "من",
+        "startMs": 188180,
+        "endMs": 188260
+      },
+      {
+        "text": "الطلبة،",
+        "startMs": 188260,
+        "endMs": 188580
+      },
+      {
+        "text": "وقالوا",
+        "startMs": 188900,
+        "endMs": 189180
+      }
+    ]
+  },
+  {
+    "startMs": 189220,
+    "endMs": 191380,
+    "text": "فعلًا إن هم متحمسين للفكرة دي بحيث إن هم",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "فعلًا",
+        "startMs": 189220,
+        "endMs": 189400
+      },
+      {
+        "text": "إن",
+        "startMs": 189440,
+        "endMs": 189480
+      },
+      {
+        "text": "هم",
+        "startMs": 189520,
+        "endMs": 189640
+      },
+      {
+        "text": "متحمسين",
+        "startMs": 189680,
+        "endMs": 190260
+      },
+      {
+        "text": "للفكرة",
+        "startMs": 190280,
+        "endMs": 190680
+      },
+      {
+        "text": "دي",
+        "startMs": 190720,
+        "endMs": 190800
+      },
+      {
+        "text": "بحيث",
+        "startMs": 191040,
+        "endMs": 191180
+      },
+      {
+        "text": "إن",
+        "startMs": 191200,
+        "endMs": 191240
+      },
+      {
+        "text": "هم",
+        "startMs": 191280,
+        "endMs": 191380
+      }
+    ]
+  },
+  {
+    "startMs": 191420,
+    "endMs": 193460,
+    "text": "يستخدموا الـ AI agent. تخيل إنت عايز تسأل",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "يستخدموا",
+        "startMs": 191420,
+        "endMs": 191800
+      },
+      {
+        "text": "الـ",
+        "startMs": 191820,
+        "endMs": 191860
+      },
+      {
+        "text": "AI",
+        "startMs": 191880,
+        "endMs": 192080
+      },
+      {
+        "text": "agent.",
+        "startMs": 192140,
+        "endMs": 192340
+      },
+      {
+        "text": "تخيل",
+        "startMs": 192600,
+        "endMs": 192900
+      },
+      {
+        "text": "إنت",
+        "startMs": 192940,
+        "endMs": 193080
+      },
+      {
+        "text": "عايز",
+        "startMs": 193100,
+        "endMs": 193240
+      },
+      {
+        "text": "تسأل",
+        "startMs": 193280,
+        "endMs": 193460
+      }
+    ]
+  },
+  {
+    "startMs": 193480,
+    "endMs": 194800,
+    "text": "instructor بتاعك الساعة اتنين بالليل،",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "instructor",
+        "startMs": 193480,
+        "endMs": 193860
+      },
+      {
+        "text": "بتاعك",
+        "startMs": 193880,
+        "endMs": 194120
+      },
+      {
+        "text": "الساعة",
+        "startMs": 194160,
+        "endMs": 194380
+      },
+      {
+        "text": "اتنين",
+        "startMs": 194400,
+        "endMs": 194540
+      },
+      {
+        "text": "بالليل،",
+        "startMs": 194580,
+        "endMs": 194800
+      }
+    ]
+  },
+  {
+    "startMs": 194860,
+    "endMs": 196560,
+    "text": "طبعًا مش هيرد عليك، أو إنت عندك social",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "طبعًا",
+        "startMs": 194860,
+        "endMs": 195060
+      },
+      {
+        "text": "مش",
+        "startMs": 195060,
+        "endMs": 195140
+      },
+      {
+        "text": "هيرد",
+        "startMs": 195180,
+        "endMs": 195400
+      },
+      {
+        "text": "عليك،",
+        "startMs": 195480,
+        "endMs": 195640
+      },
+      {
+        "text": "أو",
+        "startMs": 195920,
+        "endMs": 196000
+      },
+      {
+        "text": "إنت",
+        "startMs": 196000,
+        "endMs": 196100
+      },
+      {
+        "text": "عندك",
+        "startMs": 196140,
+        "endMs": 196320
+      },
+      {
+        "text": "social",
+        "startMs": 196340,
+        "endMs": 196560
+      }
+    ]
+  },
+  {
+    "startMs": 196580,
+    "endMs": 198780,
+    "text": "anxiety، فهو فعلًا هيحل عندك المشكلة دي.",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "anxiety،",
+        "startMs": 196580,
+        "endMs": 197100
+      },
+      {
+        "text": "فهو",
+        "startMs": 197340,
+        "endMs": 197460
+      },
+      {
+        "text": "فعلًا",
+        "startMs": 197480,
+        "endMs": 197680
+      },
+      {
+        "text": "هيحل",
+        "startMs": 197720,
+        "endMs": 197980
+      },
+      {
+        "text": "عندك",
+        "startMs": 198020,
+        "endMs": 198260
+      },
+      {
+        "text": "المشكلة",
+        "startMs": 198280,
+        "endMs": 198660
+      },
+      {
+        "text": "دي.",
+        "startMs": 198700,
+        "endMs": 198780
+      }
+    ]
+  },
+  {
+    "startMs": 199540,
+    "endMs": 201140,
+    "text": "وأنا هروح أشوف بقى البشمهندسين التانيين",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "وأنا",
+        "startMs": 199540,
+        "endMs": 199820
+      },
+      {
+        "text": "هروح",
+        "startMs": 199840,
+        "endMs": 199960
+      },
+      {
+        "text": "أشوف",
+        "startMs": 200000,
+        "endMs": 200160
+      },
+      {
+        "text": "بقى",
+        "startMs": 200200,
+        "endMs": 200260
+      },
+      {
+        "text": "البشمهندسين",
+        "startMs": 200300,
+        "endMs": 200860
+      },
+      {
+        "text": "التانيين",
+        "startMs": 200860,
+        "endMs": 201140
+      }
+    ]
+  },
+  {
+    "startMs": 201180,
+    "endMs": 203320,
+    "text": "راحوا فين.",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "راحوا",
+        "startMs": 201180,
+        "endMs": 201360
+      },
+      {
+        "text": "فين.",
+        "startMs": 201420,
+        "endMs": 203320
+      }
+    ]
+  },
+  {
+    "startMs": 203360,
+    "endMs": 205260,
+    "text": "أنا بشمهندس مصطفى واحد من founders بطة.",
+    "speaker": "Speaker 0",
+    "words": [
+      {
+        "text": "أنا",
+        "startMs": 203360,
+        "endMs": 203460
+      },
+      {
+        "text": "بشمهندس",
+        "startMs": 203500,
+        "endMs": 203940
+      },
+      {
+        "text": "مصطفى",
+        "startMs": 203960,
+        "endMs": 204280
+      },
+      {
+        "text": "واحد",
+        "startMs": 204300,
+        "endMs": 204480
+      },
+      {
+        "text": "من",
+        "startMs": 204500,
+        "endMs": 204600
+      },
+      {
+        "text": "founders",
+        "startMs": 204640,
+        "endMs": 205000
+      },
+      {
+        "text": "بطة.",
+        "startMs": 205020,
+        "endMs": 205260
+      }
+    ]
+  },
+  {
+    "startMs": 206740,
+    "endMs": 208300,
+    "text": "وأنا بشمهندس عبد الرحمن وأنا من founders",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "وأنا",
+        "startMs": 206740,
+        "endMs": 206900
+      },
+      {
+        "text": "بشمهندس",
+        "startMs": 206920,
+        "endMs": 207240
+      },
+      {
+        "text": "عبد",
+        "startMs": 207260,
+        "endMs": 207360
+      },
+      {
+        "text": "الرحمن",
+        "startMs": 207380,
+        "endMs": 207700
+      },
+      {
+        "text": "وأنا",
+        "startMs": 207780,
+        "endMs": 207900
+      },
+      {
+        "text": "من",
+        "startMs": 207940,
+        "endMs": 208000
+      },
+      {
+        "text": "founders",
+        "startMs": 208020,
+        "endMs": 208300
+      }
+    ]
+  },
+  {
+    "startMs": 208340,
+    "endMs": 208600,
+    "text": "بطة.",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "بطة.",
+        "startMs": 208340,
+        "endMs": 208600
+      }
+    ]
+  },
+  {
+    "startMs": 209700,
+    "endMs": 211760,
+    "text": "وأنا يوسف ومن founders بطة.",
+    "speaker": "Speaker 2",
+    "words": [
+      {
+        "text": "وأنا",
+        "startMs": 209700,
+        "endMs": 209940
+      },
+      {
+        "text": "يوسف",
+        "startMs": 209980,
+        "endMs": 210340
+      },
+      {
+        "text": "ومن",
+        "startMs": 210520,
+        "endMs": 210700
+      },
+      {
+        "text": "founders",
+        "startMs": 210740,
+        "endMs": 211060
+      },
+      {
+        "text": "بطة.",
+        "startMs": 211100,
+        "endMs": 211760
+      }
+    ]
+  },
+  {
+    "startMs": 212100,
+    "endMs": 213920,
+    "text": "شكرًا جدًا لحضراتكم. مع السلامة.",
+    "speaker": "Speaker 1",
+    "words": [
+      {
+        "text": "شكرًا",
+        "startMs": 212100,
+        "endMs": 212360
+      },
+      {
+        "text": "جدًا",
+        "startMs": 212420,
+        "endMs": 212540
+      },
+      {
+        "text": "لحضراتكم.",
+        "startMs": 212580,
+        "endMs": 213020
+      },
+      {
+        "text": "مع",
+        "startMs": 213520,
+        "endMs": 213620
+      },
+      {
+        "text": "السلامة.",
+        "startMs": 213620,
+        "endMs": 213920
       }
     ]
   }

@@ -8,10 +8,10 @@ export const Root: React.FC = () => {
       <Composition
         id="CaptionedVideo"
         component={CaptionedVideo}
-        durationInFrames={7512}
+        durationInFrames={13292}
         fps={60}
-        width={2160}
-        height={3840}
+        width={1920}
+        height={1080}
         defaultProps={{}}
       />
     </>

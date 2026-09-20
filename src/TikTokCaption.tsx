@@ -2,10 +2,11 @@ import React, { useMemo } from "react";
 import { AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig } from "remotion";
 import { fontFamily } from "./load-font";
 
-// Minimalist, elegant aesthetic colors
-const ACTIVE_WORD_COLOR = "#FDE047"; // Clean, warm aesthetic yellow (Tailwind Yellow-300)
-const INACTIVE_WORD_COLOR = "#FFFFFF";
-const PAST_WORD_COLOR = "rgba(255, 255, 255, 0.85)";
+// Belly Brand Palette
+const ACTIVE_WORD_COLOR = "#FB7600"; // belly darkorange (vibrant punchy orange)
+const INACTIVE_WORD_COLOR = "#F8F0E8"; // belly linen (warm crisp off-white)
+const PAST_WORD_COLOR = "#F0D8B8"; // belly bisque (soft warm cream)
+const STROKE_COLOR = "#2B221F"; // belly black (deep warm shadow stroke)
 
 interface WordToken {
   text: string;
@@ -42,8 +43,8 @@ export const TikTokCaption: React.FC<{
     }));
   }, [text, totalDurationMs, sequenceStartMs, words]);
 
-  // Group consecutive Latin/English words so phrases like "Problem Solving" or "C++, Python, Java"
-  // always flow left-to-right inside the Arabic sentence.
+  // Group consecutive Latin/English words so phrases like "AI agent" or "3D modeling in Blender"
+  // always flow Left-to-Right inside the Arabic sentence.
   const isLatinToken = (t: string) => !/[\u0600-\u06FF]/.test(t) && /[A-Za-z0-9]/.test(t);
 
   interface Chunk {
@@ -78,7 +79,7 @@ export const TikTokCaption: React.FC<{
   });
 
   const containerOpacity = interpolate(enterSpring, [0, 1], [0, 1]);
-  const containerY = interpolate(enterSpring, [0, 1], [12, 0]);
+  const containerY = interpolate(enterSpring, [0, 1], [8, 0]);
 
   const renderWord = (token: WordToken, globalIndex: number) => {
     const isActive = timeInMs >= token.startMs && timeInMs < token.endMs;
@@ -98,7 +99,7 @@ export const TikTokCaption: React.FC<{
     });
 
     const wordScale = isActive ? interpolate(wordPop, [0, 1], [1.0, 1.08]) : 1.0;
-    const wordTranslateY = isActive ? interpolate(wordPop, [0, 1], [0, -6]) : 0;
+    const wordTranslateY = isActive ? interpolate(wordPop, [0, 1], [0, -4]) : 0;
 
     let color = INACTIVE_WORD_COLOR;
     let opacity = 1;
@@ -107,10 +108,10 @@ export const TikTokCaption: React.FC<{
       color = ACTIVE_WORD_COLOR;
     } else if (isPast) {
       color = PAST_WORD_COLOR;
-      opacity = 0.8;
+      opacity = 0.92;
     } else {
       color = INACTIVE_WORD_COLOR;
-      opacity = 0.8;
+      opacity = 0.85;
     }
 
     return (
@@ -118,20 +119,20 @@ export const TikTokCaption: React.FC<{
         key={`${token.text}-${globalIndex}`}
         style={{
           display: "inline-block",
-          margin: "0 14px",
+          margin: "0 8px",
           transform: `scale(${wordScale}) translateY(${wordTranslateY}px)`,
           transformOrigin: "center bottom",
           fontFamily,
-          fontSize: 96,
+          fontSize: 56,
           fontWeight: 900,
           lineHeight: 1.35,
           color,
           opacity,
-          WebkitTextStroke: "12px #000000",
+          WebkitTextStroke: `7px ${STROKE_COLOR}`,
           paintOrder: "stroke fill",
           textShadow: isActive
-            ? "0 0 24px rgba(253, 224, 71, 0.6), 0 4px 20px rgba(0, 0, 0, 0.95)"
-            : "0 4px 20px rgba(0, 0, 0, 0.95)",
+            ? "0 0 20px rgba(251, 118, 0, 0.7), 0 4px 16px rgba(43, 34, 31, 0.95)"
+            : "0 3px 14px rgba(43, 34, 31, 0.95)",
           transition: "color 0.1s ease, opacity 0.1s ease",
         }}
       >
@@ -145,7 +146,7 @@ export const TikTokCaption: React.FC<{
       style={{
         justifyContent: "flex-end",
         alignItems: "center",
-        paddingBottom: 720,
+        paddingBottom: 65,
         direction: "rtl",
         pointerEvents: "none",
       }}
@@ -154,11 +155,11 @@ export const TikTokCaption: React.FC<{
         style={{
           opacity: containerOpacity,
           transform: `translateY(${containerY}px)`,
-          maxWidth: 1750,
+          maxWidth: 1550,
           textAlign: "center",
           direction: "rtl",
-          padding: "16px 36px",
-          textShadow: "0 4px 24px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.9)",
+          padding: "12px 28px",
+          textShadow: "0 3px 16px rgba(43, 34, 31, 0.95)",
           lineHeight: 1.35,
         }}
       >
@@ -172,8 +173,8 @@ export const TikTokCaption: React.FC<{
                   direction: "ltr",
                   flexDirection: "row",
                   alignItems: "center",
-                  gap: 20,
-                  margin: "0 14px",
+                  gap: 12,
+                  margin: "0 8px",
                   unicodeBidi: "isolate",
                 }}
               >
